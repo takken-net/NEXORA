@@ -1,0 +1,40 @@
+name: Update fallback movies
+
+# 毎週月曜 4:00(日本時間)ごろに自動実行し、TMDbの人気作品でfallback-movies.jsonを更新する。
+# 「Actions」タブから手動実行(workflow_dispatch)することもできる。
+on:
+  schedule:
+    - cron: "0 19 * * 0" # UTC日曜19:00 = JST月曜4:00
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-fallback-movies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.jsをセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: fallback-movies.json を更新
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/update-fallback-movies.mjs
+
+      - name: 変更があればコミット・プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- fallback-movies.json; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git add fallback-movies.json
+            git commit -m "chore: fallback-movies.jsonを自動更新"
+            git push
+          fi
