@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>今の気持ちを、映画に映す by NEXORA</title>
+<style>
+  :root{
+    --bg:#f4f1f5;
+    --card:#ffffff;
+    --ink:#241f2b;
+    --sub:#847d8e;
+    --accent:#5c4a9c;
+    --accent-soft:#e4dcf5;
+    --line:#e2ddea;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:"Hiragino Sans","Yu Gothic",-apple-system,BlinkMacSystemFont,sans-serif;
+    background:var(--bg);
+    color:var(--ink);
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    padding:40px 16px;
+  }
+  .wrap{width:100%;max-width:640px;}
+  h1{
+    font-size:22px;
+    font-weight:600;
+    margin:0 0 6px;
+    letter-spacing:0.02em;
+  }
+  h1 .brand{
+    font-size:12px;
+    font-weight:500;
+    color:var(--sub);
+    letter-spacing:0.03em;
+    margin-left:6px;
+  }
+  .lead{
+    color:var(--sub);
+    font-size:14px;
+    margin:0 0 28px;
+    line-height:1.7;
+  }
+  .section{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:16px;
+    padding:20px;
+    margin-bottom:20px;
+  }
+  .section-title{
+    font-size:13px;
+    font-weight:600;
+    color:var(--sub);
+    margin:0 0 14px;
+    letter-spacing:0.02em;
+  }
+  .cat-chips{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .cat-chip{
+    font-size:13px;
+    color:var(--ink);
+    background:var(--bg);
+    border:1px solid var(--line);
+    padding:9px 16px;
+    border-radius:999px;
+    cursor:pointer;
+    font-family:inherit;
+    transition:all .12s;
+  }
+  .cat-chip:hover{border-color:var(--accent);}
+  .cat-chip.active{
+    background:var(--accent);
+    color:#fff;
+    border-color:var(--accent);
+  }
+  .color-grid{
+    display:grid;
+    grid-template-columns:repeat(5, 1fr);
+    gap:10px;
+  }
+  .color-swatch{
+    aspect-ratio:1;
+    cursor:pointer;
+    box-shadow:inset 0 0 0 1px rgba(0,0,0,0.08);
+    transition:transform .12s, box-shadow .12s;
+  }
+  .color-swatch:hover{transform:scale(1.04);}
+  .color-swatch.active{
+    transform:scale(1.05);
+    box-shadow:inset 0 0 0 1px rgba(0,0,0,0.08), 0 0 0 3px var(--ink);
+  }
+  .waiting-hint{
+    text-align:center;
+    color:var(--sub);
+    font-size:13px;
+    padding:20px 0;
+    line-height:1.8;
+  }
+  #result{display:none;}
+  .empathy{
+    background:var(--accent-soft);
+    border-radius:14px;
+    padding:16px 18px;
+    font-size:14px;
+    line-height:1.8;
+    margin-bottom:22px;
+    color:#3d2f70;
+  }
+  .empathy b{font-size:13px;letter-spacing:0.05em;display:block;margin-bottom:4px;color:var(--accent);}
+  .movie{
+    display:flex;
+    gap:14px;
+    align-items:flex-start;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:18px 20px;
+    margin-bottom:12px;
+  }
+  .movie .poster-mark{
+    width:60px;
+    height:88px;
+    border-radius:6px;
+    flex-shrink:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:22px;
+    color:#fff;
+    box-shadow:0 1px 3px rgba(0,0,0,0.15);
+  }
+  .movie .cover{
+    width:60px;
+    height:88px;
+    object-fit:cover;
+    border-radius:6px;
+    flex-shrink:0;
+    box-shadow:0 1px 3px rgba(0,0,0,0.15);
+  }
+  .movie-link{
+    display:inline-block;
+    margin-top:8px;
+    font-size:12.5px;
+    color:var(--accent);
+    font-weight:600;
+    text-decoration:none;
+  }
+  .movie-link:hover{text-decoration:underline;}
+  .review-links{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+    margin-top:10px;
+  }
+  .review-tab{
+    display:inline-block;
+    font-size:11.5px;
+    color:var(--accent);
+    background:var(--accent-soft);
+    border:1px solid var(--accent-soft);
+    padding:4px 10px;
+    border-radius:999px;
+    text-decoration:none;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .review-tab:hover{border-color:var(--accent);}
+  .prime-badge{
+    display:inline-block;
+    font-size:11px;
+    padding:3px 9px;
+    border-radius:999px;
+    margin-left:6px;
+    font-weight:600;
+    vertical-align:middle;
+  }
+  .prime-badge.loading{ background:var(--bg); color:var(--sub); }
+  .prime-badge.available{ background:#dcecff; color:#146eb4; }
+  .movie-body{flex:1;min-width:0;}
+  .movie h3{margin:0 0 2px;font-size:16px;}
+  .movie .meta{font-size:12.5px;color:var(--sub);margin-bottom:8px;}
+  .movie .time-tag{
+    display:inline-block;
+    font-size:11.5px;
+    color:var(--accent);
+    background:var(--accent-soft);
+    padding:3px 10px;
+    border-radius:999px;
+    margin-bottom:10px;
+  }
+  .movie .why{font-size:13.5px;line-height:1.75;color:#453f4e;}
+  .why b{color:var(--accent);font-weight:600;}
+  .loading-note{
+    text-align:center;
+    color:var(--sub);
+    font-size:13px;
+    padding:14px 0;
+    line-height:1.7;
+  }
+  .shuffle-row{text-align:center;margin-top:4px;}
+  .shuffle-btn{
+    background:transparent;
+    color:var(--accent);
+    border:1px solid var(--accent);
+    padding:9px 20px;
+    border-radius:999px;
+    font-size:13px;
+    font-weight:600;
+    cursor:pointer;
+    font-family:inherit;
+  }
+  .shuffle-btn:hover{background:var(--accent-soft);}
+  footer{
+    margin-top:30px;
+    font-size:11.5px;
+    color:#b3aec2;
+    text-align:center;
+    line-height:1.7;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>今の気持ちを、映画に映す<span class="brand">by NEXORA</span></h1>
+  <p class="lead">4つの質問に答えて、新しい世界へ踏み出そう。</p>
+
+  <div class="section">
+    <p class="section-title">今の気持ちに近いものは？</p>
+    <div class="cat-chips" id="catChips"></div>
+  </div>
+
+  <div class="section">
+    <p class="section-title">気持ちに近い色は？</p>
+    <div class="color-grid" id="colorGrid"></div>
+  </div>
+
+  <div class="section">
+    <p class="section-title">観た後、どうなりたい？</p>
+    <div class="cat-chips" id="outcomeChips"></div>
+  </div>
+
+  <div class="section">
+    <p class="section-title">観る時間の余裕は？</p>
+    <div class="cat-chips" id="timeChips"></div>
+  </div>
+
+  <div class="waiting-hint" id="waitingHint">4つすべて選ぶと映画が表示されます。</div>
+
+  <div id="result">
+    <div class="empathy" id="empathyBox"></div>
+    <div id="movies"></div>
+    <div class="shuffle-row">
+      <button class="shuffle-btn" onclick="showCombinedResults()">他の映画を見る</button>
+    </div>
+  </div>
+
+  <footer>プロトタイプ版・TMDb(The Movie Database)のAPIを主に、取得できない場合はiTunes Search APIと連携した簡易推薦です。どちらも通信できない場合は、あらかじめ用意した推薦リストから紹介します。「Amazonプライムで配信中」表示はTMDb経由のJustWatch提供データを参考にしたものであり、実際の配信状況とずれる場合があります。Filmarks・映画.com・Amazonへのリンクはタイトルでの検索結果へのご案内です。このプロダクトはTMDb APIを使用していますが、TMDbによる承認や公認を受けたものではありません。</footer>
+</div>
+
+<script>
+// ---- 感情カテゴリ ----
+const EMOTIONS = {
+  anxiety:    { label:"不安",             message:"不安な気持ちを抱えているんですね。無理に振り払おうとせず、まずは少し立ち止まってみませんか。" },
+  sadness:    { label:"悲しみ・落ち込み",  message:"つらい気持ちを抱えているんですね。今日はその気持ちに寄り添ってくれる映画を選びました。" },
+  tired:      { label:"疲れ・燃え尽き",    message:"しっかり疲れが溜まっているようです。何かを頑張るより、まず休むための映画を選びました。" },
+  loneliness: { label:"孤独",             message:"一人の時間を必要としているんですね。孤独を否定せず、静かに寄り添ってくれる映画を選びました。" },
+  anger:      { label:"怒り・不満",        message:"モヤモヤした気持ち、当然の反応だと思います。少し頭を整理する助けになる映画を選びました。" },
+  stagnation: { label:"停滞・マンネリ",    message:"今の日々に、少し変化がほしいタイミングかもしれません。視点を変えてくれる映画を選びました。" },
+  adventure:  { label:"挑戦・高揚",        message:"いい高揚感ですね。その気持ちの追い風になる映画を選びました。" },
+  calm:       { label:"穏やか",           message:"穏やかな時間を求めているんですね。ゆっくり観られる映画を選びました。" },
+  confusion:  { label:"迷い・悩み",        message:"答えが出ない中で悩んでいるんですね。すぐに答えをくれなくても、考えを整理する助けになる映画を選びました。" },
+  gratitude:  { label:"感謝・充足",        message:"いい気分ですね。その気持ちをさらに豊かにしてくれる映画を選びました。" },
+  joy:        { label:"喜び",             message:"いいことがあったんですね。その明るい気持ちを、もっと味わえる映画を選びました。" },
+  fun:        { label:"楽しい",           message:"楽しい気分なんですね。その気分にぴったり合う、軽やかな映画を選びました。" }
+};
+
+// ---- 観た後どうなりたいか ----
+const OUTCOMES = {
+  energy:   "元気になりたい",
+  relief:   "気持ちが軽くなりたい",
+  positive: "前向きになりたい",
+  think:    "深く考えたい",
+  escape:   "現実を忘れたい",
+  laugh:    "笑いたい",
+  cry:      "泣きたい"
+};
+
+// ---- 観る時間の余裕 ----
+const TIMES = {
+  short:  "90分前後",
+  medium: "120分前後",
+  long:   "150分前後"
+};
+const TIME_NOTE = {
+  short:  "90分前後でサクッと観られる一本",
+  medium: "120分前後、ちょうどいい長さの一本",
+  long:   "150分前後、じっくり浸れる一本"
+};
+
+// ---- 映画データ(カテゴリ別、each: time=short/medium/long, outcome=OUTCOMESのキー) ----
+const MOVIES = {
+  anxiety: [
+    {title:"かもめ食堂", director:"荻上直子", year:"2006", why:"静かなヘルシンキの食堂を舞台に、慌てず自分のペースを保つ登場人物たちの姿が、不安な気持ちをそっと和らげてくれます。", time:"short", outcome:"relief"},
+    {title:"パーフェクト・デイズ", director:"ヴィム・ヴェンダース", year:"2023", why:"同じ日々を丁寧に繰り返す主人公の姿が、先の見えない不安から距離を置くヒントをくれます。", time:"medium", outcome:"relief"},
+    {title:"リトル・フォレスト 夏・秋", director:"森淳一", year:"2014", why:"自然と共にある丁寧な暮らしを淡々と描き、思い悩む気持ちを静かに鎮めてくれます。", time:"medium", outcome:"relief"},
+    {title:"アメリ", director:"ジャン=ピエール・ジュネ", year:"2001", why:"内気な主人公が小さな行動で世界と繋がっていく姿が、不安を前向きな一歩に変える後押しをしてくれます。", time:"long", outcome:"positive"}
+  ],
+  sadness: [
+    {title:"海街diary", director:"是枝裕和", year:"2015", why:"家族の喪失を抱えながらも寄り添い合う四姉妹の日常が、悲しみをそっと受け止めてくれます。", time:"long", outcome:"relief"},
+    {title:"そして父になる", director:"是枝裕和", year:"2013", why:"家族の形を見つめ直す静かな物語が、悲しみに寄り添いながら涙を誘います。", time:"medium", outcome:"cry"},
+    {title:"百円の恋", director:"武正晴", year:"2014", why:"どん底から這い上がる主人公の姿が、悲しみの中にも力強い希望を見せてくれます。", time:"long", outcome:"energy"},
+    {title:"リメンバー・ミー", director:"リー・アンクリッチ", year:"2017", why:"家族との絆と別れを鮮やかな世界観で描き、涙とともに温かい気持ちを残してくれます。", time:"short", outcome:"cry"}
+  ],
+  tired: [
+    {title:"しあわせのパン", director:"三島有紀子", year:"2012", why:"北海道の小さなパン屋を舞台に、丁寧な暮らしが疲れた心をゆっくり癒やしてくれます。", time:"medium", outcome:"relief"},
+    {title:"海がきこえる", director:"望月智充", year:"1993", why:"等身大の青春を静かに描いた作品で、力を抜いて眺められる穏やかな時間をくれます。", time:"short", outcome:"relief"},
+    {title:"リトル・フォレスト 冬・春", director:"森淳一", year:"2015", why:"季節と共に生きる暮らしぶりが、頑張りすぎた心にそっと休息を与えてくれます。", time:"medium", outcome:"relief"},
+    {title:"マイ・インターン", director:"ナンシー・マイヤーズ", year:"2015", why:"無理に頑張らない働き方を見つめ直させてくれる、あたたかいヒューマンドラマです。", time:"long", outcome:"positive"}
+  ],
+  loneliness: [
+    {title:"パターソン", director:"ジム・ジャームッシュ", year:"2016", why:"同じ毎日を繰り返すバス運転手の詩的な日常が、一人の時間をそっと肯定してくれます。", time:"short", outcome:"relief"},
+    {title:"ロスト・イン・トランスレーション", director:"ソフィア・コッポラ", year:"2003", why:"異国で孤独を抱える二人が静かに寄り添う姿が、一人であることの心地よさを教えてくれます。", time:"medium", outcome:"relief"},
+    {title:"万引き家族", director:"是枝裕和", year:"2018", why:"血のつながらない者同士が孤独を埋め合う姿を通して、つながりの意味を問いかけてきます。", time:"long", outcome:"think"},
+    {title:"リトル・ミス・サンシャイン", director:"ジョナサン・デイトン&ヴァレリー・ファリス", year:"2006", why:"バラバラな家族が旅を通して少しずつ寄り添っていく姿に、孤独がやわらいでいきます。", time:"medium", outcome:"laugh"}
+  ],
+  anger: [
+    {title:"es[エス]", director:"オリヴァー・ヒルシュビーゲル", year:"2001", why:"理不尽な状況が人を追い詰めていく様子を通して、怒りの正体を静かに見つめ直させてくれます。", time:"long", outcome:"think"},
+    {title:"家族を想うとき", director:"ケン・ローチ", year:"2019", why:"社会の理不尽さに翻弄される家族の姿が、抱えている怒りやもどかしさを代弁してくれます。", time:"long", outcome:"think"},
+    {title:"インサイド・ヘッド", director:"ピート・ドクター", year:"2015", why:"怒りという感情そのものを否定せず、大切な役割として描くアニメーションです。", time:"short", outcome:"positive"},
+    {title:"新聞記者", director:"藤井道人", year:"2019", why:"理不尽な力に立ち向かう姿を描いた社会派ドラマが、モヤモヤした気持ちを整理する助けになります。", time:"medium", outcome:"think"}
+  ],
+  stagnation: [
+    {title:"花束みたいな恋をした", director:"土井裕泰", year:"2021", why:"変わっていく関係を丁寧に描いた物語が、今のマンネリを見つめ直すきっかけをくれます。", time:"long", outcome:"think"},
+    {title:"深夜食堂", director:"松岡錠司", year:"2015", why:"変わらない日常の中にある小さな機微を描き、見慣れた毎日に新しい視点を添えてくれます。", time:"short", outcome:"relief"},
+    {title:"マダム・イン・ニューヨーク", director:"ガウリ・シンデー", year:"2012", why:"停滞していた日々から一歩踏み出す女性の姿が、変化への背中を押してくれます。", time:"medium", outcome:"energy"},
+    {title:"モーターサイクル・ダイアリーズ", director:"ウォルター・サレス", year:"2004", why:"旅を通じて世界の見え方が変わっていく実話が、日常から離れる視点をくれます。", time:"long", outcome:"escape"}
+  ],
+  adventure: [
+    {title:"レイダース/失われた聖櫃(アーク)", director:"スティーヴン・スピルバーグ", year:"1981", why:"痛快な冒険活劇が、挑戦する気持ちの高揚感をそのまま後押ししてくれます。", time:"long", outcome:"energy"},
+    {title:"きっと、うまくいく", director:"ラージクマール・ヒラーニ", year:"2009", why:"常識に挑む若者たちの姿が、新しい一歩を踏み出す勇気を後押ししてくれます。", time:"long", outcome:"positive"},
+    {title:"LIFE!/ライフ", director:"ベン・スティラー", year:"2013", why:"平凡な日常を送っていた主人公が世界に飛び出していく姿に、高揚感がもらえます。", time:"medium", outcome:"energy"},
+    {title:"マッドマックス 怒りのデス・ロード", director:"ジョージ・ミラー", year:"2015", why:"疾走感あふれる映像が、挑戦への高まる気持ちをそのまま加速させてくれます。", time:"medium", outcome:"escape"}
+  ],
+  calm: [
+    {title:"モリのいる場所", director:"沖田修一", year:"2018", why:"庭を眺めて過ごす老画家の穏やかな日常が、ゆったりとした時間の心地よさを教えてくれます。", time:"short", outcome:"relief"},
+    {title:"小さいおうち", director:"山田洋次", year:"2014", why:"静かな筆致で描かれる昭和の暮らしが、穏やかな気持ちにそっと寄り添ってくれます。", time:"medium", outcome:"think"},
+    {title:"日々是好日", director:"大森立嗣", year:"2018", why:"茶道を通じて「今この瞬間」に集中する穏やかな時間の過ごし方を描いています。", time:"medium", outcome:"think"},
+    {title:"めがね", director:"荻上直子", year:"2007", why:"何もしない贅沢な時間を描いた作品が、穏やかな気分をそのまま味わわせてくれます。", time:"short", outcome:"relief"}
+  ],
+  confusion: [
+    {title:"悪人", director:"李相日", year:"2010", why:"迷いながら生きる人々の姿を描いた社会派ドラマが、答えのない問いに向き合う力をくれます。", time:"long", outcome:"think"},
+    {title:"きみの鳥はうたえる", director:"三宅唱", year:"2018", why:"将来への迷いを抱える若者たちの日常が、答えの出ない気持ちにそっと寄り添ってくれます。", time:"short", outcome:"think"},
+    {title:"スイス・アーミー・マン", director:"ダニエル・シャイナート&ダニエル・クワン", year:"2016", why:"突飛な設定を通して人生の意味を問い直す物語が、悩みから一度離れる時間をくれます。", time:"medium", outcome:"escape"},
+    {title:"幸せなひとりぼっち", director:"ハンネス・ホルム", year:"2015", why:"頑固な老人の視点を通じて、生き方を静かに問い直させてくれる物語です。", time:"medium", outcome:"think"}
+  ],
+  gratitude: [
+    {title:"アバウト・タイム 愛おしい時間について", director:"リチャード・カーティス", year:"2013", why:"当たり前に思える日常のかけがえのなさに、じんわりと気づかせてくれる物語です。", time:"long", outcome:"positive"},
+    {title:"舟を編む", director:"石井裕也", year:"2013", why:"ものづくりに真摯に向き合う人々の姿が、今ある日々への静かな感謝を思い出させてくれます。", time:"long", outcome:"think"},
+    {title:"素晴らしき哉、人生！", director:"フランク・キャプラ", year:"1946", why:"自分の人生の意味に気づかせてくれる、時代を超えて愛される名作です。", time:"medium", outcome:"cry"},
+    {title:"扉をたたく人", director:"トム・マッカーシー", year:"2007", why:"思いがけない出会いのかけがえのなさに気づかせてくれる、静かなヒューマンドラマです。", time:"medium", outcome:"think"}
+  ],
+  joy: [
+    {title:"シング・ストリート 未来へのうた", director:"ジョン・カーニー", year:"2016", why:"音楽を通じて仲間と喜びを分かち合う青春映画が、明るい気持ちをさらに後押ししてくれます。", time:"medium", outcome:"energy"},
+    {title:"マンマ・ミーア！", director:"フィリダ・ロイド", year:"2008", why:"ABBAの名曲とともに弾ける喜びを描くミュージカルが、その気分をもっと盛り上げてくれます。", time:"short", outcome:"laugh"},
+    {title:"天使にラブ・ソングを…", director:"エミール・アルドリーノ", year:"1992", why:"賑やかな聖歌隊が巻き起こす喜びに満ちたコメディで、気分がさらに明るくなります。", time:"short", outcome:"laugh"},
+    {title:"リトル・ダンサー", director:"スティーヴン・ダルドリー", year:"2000", why:"夢に向かって踊る少年の姿が、喜びと感動を一緒に運んできてくれます。", time:"medium", outcome:"energy"}
+  ],
+  fun: [
+    {title:"バック・トゥ・ザ・フューチャー", director:"ロバート・ゼメキス", year:"1985", why:"テンポの良いタイムトラベル劇が、楽しい気分にぴったり合う痛快なエンタメです。", time:"medium", outcome:"energy"},
+    {title:"グランド・ブダペスト・ホテル", director:"ウェス・アンダーソン", year:"2014", why:"洒落た会話とテンポの良い展開が、くすっと笑える楽しい時間を届けてくれます。", time:"short", outcome:"laugh"},
+    {title:"パディントン", director:"ポール・キング", year:"2014", why:"心温まるユーモアたっぷりの物語が、楽しい気分をそのまま味わわせてくれます。", time:"short", outcome:"laugh"},
+    {title:"スパイダーマン：スパイダーバース", director:"ボブ・ペルシケッティ 他", year:"2018", why:"鮮やかな映像とスピード感が、楽しい気分をもっと弾ませてくれる一本です。", time:"medium", outcome:"energy"}
+  ]
+};
+
+// ---- iTunes Search API検索用のキーワード ----
+// (attribute=descriptionTermであらすじ本文を対象に検索するため、語数は少なく保つ)
+const CATEGORY_QUERY_TERMS = {
+  anxiety:"不安",
+  sadness:"悲しみ",
+  tired:"疲れ",
+  loneliness:"孤独",
+  anger:"怒り",
+  stagnation:"マンネリ",
+  adventure:"挑戦",
+  calm:"穏やか",
+  confusion:"迷い",
+  gratitude:"幸せ",
+  joy:"喜び",
+  fun:"楽しい"
+};
+const OUTCOME_QUERY_TERMS = {
+  energy:   "元気",
+  relief:   "気楽",
+  positive: "前向き",
+  think:    "考える",
+  escape:   "現実逃避",
+  laugh:    "笑える",
+  cry:      "泣ける"
+};
+
+// ---- 色のパレット(全15色。似た色が並ばないよう、色相を混ぜて配置) ----
+const COLOR_SWATCHES = [
+  { color:"#e63946", category:"anger" },        // 赤
+  { color:"#f7d94c", category:"joy" },          // 黄
+  { color:"#3b6ea5", category:"sadness" },      // 青
+  { color:"#b5d94c", category:"fun" },          // 黄緑
+  { color:"#8a63c9", category:"anxiety" },      // 紫
+  { color:"#f4a340", category:"adventure" },    // オレンジ
+  { color:"#4caf50", category:"gratitude" },    // 緑
+  { color:"#22254a", category:"loneliness" },   // 濃紺
+  { color:"#d9527a", category:"stagnation" },   // 濃いピンク
+  { color:"#5bc8d9", category:"tired" },        // 水色
+  { color:"#b94fc9", category:"confusion" },    // マゼンタ
+  { color:"#4fb8a8", category:"calm" },         // ティール
+  { color:"#232019", category:"sadness" },      // 黒に近い
+  { color:"#f4f0e6", category:"gratitude" },    // 白に近い
+  { color:"#e8875a", category:"fun" }           // ピーチ
+];
+
+// 絵の具のにじみのような、いびつな丸(ブロブ)の形をborder-radiusで再現
+const BLOB_SHAPES = [
+  "63% 37% 54% 46% / 43% 58% 42% 57%",
+  "42% 58% 68% 32% / 56% 44% 56% 44%",
+  "56% 44% 39% 61% / 62% 44% 56% 38%",
+  "38% 62% 63% 37% / 41% 56% 44% 59%",
+  "70% 30% 46% 54% / 30% 62% 38% 70%",
+  "45% 55% 60% 40% / 60% 35% 65% 40%"
+];
+
+let selectedCategory = null;
+let selectedColorCategory = null;
+let selectedOutcome = null;
+let selectedTime = null;
+
+function renderCatChips(){
+  const wrap = document.getElementById('catChips');
+  wrap.innerHTML = Object.keys(EMOTIONS).map(key =>
+    `<span class="cat-chip" id="cat-${key}" onclick="selectCategory('${key}')">${EMOTIONS[key].label}</span>`
+  ).join('');
+}
+
+function renderColorGrid(){
+  const wrap = document.getElementById('colorGrid');
+  wrap.innerHTML = COLOR_SWATCHES.map((s, i) =>
+    `<div class="color-swatch" id="swatch-${i}" style="background:${s.color};border-radius:${BLOB_SHAPES[i % BLOB_SHAPES.length]};" onclick="selectColor('${s.category}', ${i})"></div>`
+  ).join('');
+}
+
+function renderOutcomeChips(){
+  const wrap = document.getElementById('outcomeChips');
+  wrap.innerHTML = Object.keys(OUTCOMES).map(key =>
+    `<span class="cat-chip" id="outcome-${key}" onclick="selectOutcome('${key}')">${OUTCOMES[key]}</span>`
+  ).join('');
+}
+
+function renderTimeChips(){
+  const wrap = document.getElementById('timeChips');
+  wrap.innerHTML = Object.keys(TIMES).map(key =>
+    `<span class="cat-chip" id="time-${key}" onclick="selectTime('${key}')">${TIMES[key]}</span>`
+  ).join('');
+}
+
+function selectCategory(key){
+  selectedCategory = key;
+  document.querySelectorAll('#catChips .cat-chip').forEach(c => c.classList.remove('active'));
+  document.getElementById('cat-' + key).classList.add('active');
+  tryShowResults();
+}
+
+function selectColor(category, index){
+  selectedColorCategory = category;
+  document.querySelectorAll('.color-swatch').forEach(c => c.classList.remove('active'));
+  document.getElementById('swatch-' + index).classList.add('active');
+  tryShowResults();
+}
+
+function selectOutcome(key){
+  selectedOutcome = key;
+  document.querySelectorAll('#outcomeChips .cat-chip').forEach(c => c.classList.remove('active'));
+  document.getElementById('outcome-' + key).classList.add('active');
+  tryShowResults();
+}
+
+function selectTime(key){
+  selectedTime = key;
+  document.querySelectorAll('#timeChips .cat-chip').forEach(c => c.classList.remove('active'));
+  document.getElementById('time-' + key).classList.add('active');
+  tryShowResults();
+}
+
+function tryShowResults(){
+  if(!selectedCategory || !selectedColorCategory || !selectedOutcome || !selectedTime) return;
+  showCombinedResults();
+}
+
+// 配列をランダムにシャッフルする(Fisher-Yates)
+function shuffle(arr){
+  const a = arr.slice();
+  for(let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// カテゴリ内の映画を、観る時間・観後感の一致度でスコアリングしつつ、
+// 同点内はシャッフルして選ぶ(同じ選択でも「他の映画を見る」で違う組み合わせが出るように)
+// sourcePoolを省略した場合は、あらかじめ組み込んだ厳選リスト(MOVIES)を使う。
+function pickMoviesForCategory(catKey, count, sourcePool){
+  const listForCategory = (sourcePool && sourcePool[catKey]) || MOVIES[catKey];
+  const pool = listForCategory.map(m => ({ ...m, tint: CATEGORY_TINTS[catKey] }));
+  pool.forEach(m=>{
+    let score = 0;
+    if(m.time === selectedTime) score += 2;
+    if(m.outcome === selectedOutcome) score += 1;
+    m.score = score;
+  });
+  const maxScore = Math.max(...pool.map(m=>m.score));
+  const grouped = [];
+  for(let s = maxScore; s >= 0; s--){
+    grouped.push(...shuffle(pool.filter(m => m.score === s)));
+  }
+  return grouped.slice(0, count);
+}
+
+// GitHub Actionsが定期的に生成する fallback-movies.json (TMDbの人気作品ベースで自動更新)を
+// 一度だけ読み込む。同じディレクトリに置かれていない・取得できない場合は、
+// あらかじめアプリに組み込んだ厳選リスト(MOVIES)がそのまま使われる。
+let dynamicFallbackMovies = null;
+let dynamicFallbackLoadAttempted = false;
+let dynamicFallbackUpdatedAt = null;
+
+async function loadDynamicFallbackMovies(){
+  if(dynamicFallbackLoadAttempted) return dynamicFallbackMovies;
+  dynamicFallbackLoadAttempted = true;
+  try {
+    const res = await fetch('./fallback-movies.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('fallback-movies.json not available');
+    const data = await res.json();
+    if(data && data.categories){
+      dynamicFallbackMovies = data.categories;
+      dynamicFallbackUpdatedAt = data.updatedAt || null;
+    }
+  } catch(err){
+    dynamicFallbackMovies = null;
+  }
+  return dynamicFallbackMovies;
+}
+
+// ポスター代わりのイニシャル表示(色は感情カテゴリのアクセントカラーを流用。API未取得時のフォールバック用)
+const CATEGORY_TINTS = {
+  anxiety:"#8a63c9", sadness:"#3b6ea5", tired:"#5bc8d9", loneliness:"#4a4e8c",
+  anger:"#e63946", stagnation:"#d9527a", adventure:"#f4a340", calm:"#4fb8a8",
+  confusion:"#b94fc9", gratitude:"#4caf50", joy:"#f7d94c", fun:"#e8875a"
+};
+
+// ---- TMDb(The Movie Database)連携設定 ----
+// 無料のDeveloperプランAPIキー。themoviedb.org/settings/api で取得可能。
+const TMDB_API_KEY = "a511ee98285666446ae555245bbd68f0";
+
+// 感情カテゴリ→TMDbジャンルID(複数の場合は「|」区切りでOR検索)
+// 28:アクション 12:アドベンチャー 16:アニメーション 35:コメディ 80:クライム
+// 18:ドラマ 10751:ファミリー 9648:ミステリー 10749:ロマンス 53:スリラー
+const TMDB_GENRE_MAP = {
+  anxiety:    [18],
+  sadness:    [18],
+  tired:      [18, 10751],
+  loneliness: [18],
+  anger:      [53, 80],
+  stagnation: [18, 10749],
+  adventure:  [12, 28],
+  calm:       [18, 10751],
+  confusion:  [18, 9648],
+  gratitude:  [10751, 18],
+  joy:        [35, 10751],
+  fun:        [35, 16]
+};
+
+// 観る時間の余裕→上映時間(分)の範囲。TMDbのDiscover APIでサーバー側から絞り込む。
+const TMDB_RUNTIME_RANGE = {
+  short:  { gte: 0,   lte: 100 },
+  medium: { gte: 90,  lte: 140 },
+  long:   { gte: 130, lte: 400 }
+};
+
+// TMDbのDiscover APIで、指定カテゴリのジャンル・観る時間に合う映画をランダムページから取得する
+async function discoverTMDbMovies(catKey, count){
+  const genres = TMDB_GENRE_MAP[catKey].join('|');
+  const range = TMDB_RUNTIME_RANGE[selectedTime];
+  const page = Math.floor(Math.random() * 5) + 1;
+  const url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=ja-JP&region=JP&sort_by=popularity.desc&include_adult=false&vote_count.gte=20&with_genres=${genres}&with_runtime.gte=${range.gte}&with_runtime.lte=${range.lte}&page=${page}`;
+
+  const res = await fetch(url);
+  if(!res.ok) throw new Error('TMDb API error: ' + res.status);
+  const data = await res.json();
+  const items = data.results || [];
+
+  const parsed = items
+    .filter(v => v.title)
+    .map(v => ({
+      title: v.title,
+      director: null,
+      year: v.release_date ? v.release_date.slice(0, 4) : '',
+      why: v.overview
+        ? (v.overview.length > 90 ? v.overview.slice(0, 90) + '…' : v.overview)
+        : 'TMDbにあらすじの登録がありませんでした。',
+      rating: v.vote_average ? v.vote_average.toFixed(1) : null,
+      cover: v.poster_path ? `https://image.tmdb.org/t/p/w200${v.poster_path}` : null,
+      link: v.id ? `https://www.themoviedb.org/movie/${v.id}?language=ja-JP` : null,
+      tmdbId: v.id || null
+    }));
+
+  return shuffle(parsed).slice(0, count);
+}
+
+// TMDbから、選択した気持ち・色に合う映画を検索する
+// (気持ち(主)と色から出た気持ち(副)が違う場合は、それぞれのジャンルで検索を分ける)
+async function fetchMoviesFromTMDb(){
+  if(selectedColorCategory === selectedCategory){
+    return discoverTMDbMovies(selectedCategory, 3);
+  }
+
+  const primaryPick = await discoverTMDbMovies(selectedCategory, 2);
+  const usedTitles = new Set(primaryPick.map(m => m.title));
+  const secondaryPool = await discoverTMDbMovies(selectedColorCategory, 3);
+  const secondaryPick = secondaryPool.filter(m => !usedTitles.has(m.title)).slice(0, 1);
+
+  return [...primaryPick, ...secondaryPick];
+}
+
+// 上映時間(ミリ秒)から、観る時間の余裕(short/medium/long)にどれだけ合うかスコアリング
+function timeScoreFromRuntime(runtimeMs, wantTime){
+  if(!runtimeMs) return 0;
+  const minutes = runtimeMs / 60000;
+  let bucket;
+  if(minutes <= 100) bucket = 'short';
+  else if(minutes <= 140) bucket = 'medium';
+  else bucket = 'long';
+  return bucket === wantTime ? 2 : 0;
+}
+
+// iTunes Search APIを1クエリぶん検索して、扱いやすい形に整える共通処理
+// (毎回同じ映画ばかりにならないよう、多めに取得してこちらでシャッフルする)
+async function searchITunesMovies(query, maxResults){
+  const url = `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&country=jp&lang=ja_jp&media=movie&entity=movie&attribute=descriptionTerm&limit=${maxResults}`;
+
+  const res = await fetch(url);
+  if(!res.ok) throw new Error('iTunes Search API error: ' + res.status);
+  const data = await res.json();
+  const items = data.results || [];
+
+  const parsed = items
+    .filter(v => v.trackName)
+    .map(v => {
+      const desc = v.longDescription || v.shortDescription || '';
+      return {
+        title: v.trackName,
+        director: v.artistName || '監督情報なし',
+        year: v.releaseDate ? v.releaseDate.slice(0, 4) : '',
+        why: desc
+          ? (desc.length > 90 ? desc.slice(0, 90) + '…' : desc)
+          : 'iTunesにあらすじの登録がありませんでした。',
+        runtimeMs: v.trackTimeMillis || null,
+        cover: v.artworkUrl100 || v.artworkUrl60 || null,
+        link: v.trackViewUrl || null
+      };
+    });
+
+  parsed.forEach(m => { m.score = timeScoreFromRuntime(m.runtimeMs, selectedTime); });
+  return parsed;
+}
+
+// 観る時間に合う映画(score>0)を優先しつつ、同点内はシャッフルして選ぶ
+// (これにより、同じ選択でも毎回違う映画が出るようになる)
+function pickRandomMovies(list, count){
+  const matched = shuffle(list.filter(m => m.score > 0));
+  const unmatched = shuffle(list.filter(m => m.score === 0));
+  return [...matched, ...unmatched].slice(0, count);
+}
+
+// iTunes Search APIから、選択した気持ち・色・観後感・観る時間に合う映画を検索する
+// (無料・APIキー不要の公開エンドポイントを使用。ポスター画像・あらすじはAppleが提供する公開情報のみを利用)
+// クエリを詰め込みすぎるとヒット数が激減するため、気持ち(主)と色から出た気持ち(副)が
+// 違う場合は検索を2回に分けて、それぞれから映画を選ぶ。
+async function fetchMoviesFromITunes(){
+  const outcomeTerm = OUTCOME_QUERY_TERMS[selectedOutcome];
+  const primaryQuery = `${CATEGORY_QUERY_TERMS[selectedCategory]} ${outcomeTerm}`;
+  const primaryResults = await searchITunesMovies(primaryQuery, 40);
+
+  if(selectedColorCategory === selectedCategory){
+    return pickRandomMovies(primaryResults, 3);
+  }
+
+  const secondaryQuery = `${CATEGORY_QUERY_TERMS[selectedColorCategory]} ${outcomeTerm}`;
+  const secondaryResults = await searchITunesMovies(secondaryQuery, 40);
+
+  const chosenPrimary = pickRandomMovies(primaryResults, 2);
+  const usedTitles = new Set(chosenPrimary.map(m => m.title));
+  const secondaryPick = pickRandomMovies(secondaryResults.filter(m => !usedTitles.has(m.title)), 1);
+
+  return [...chosenPrimary, ...secondaryPick];
+}
+
+// 検索プロバイダの優先順位。TMDbを最優先とし、失敗したらiTunesを試す。
+// どちらも失敗・0件だった場合は、呼び出し側であらかじめ用意した映画リストにフォールバックする。
+const MOVIE_PROVIDERS = [
+  { name: "TMDb",   run: fetchMoviesFromTMDb },
+  { name: "iTunes", run: fetchMoviesFromITunes }
+];
+
+async function fetchMoviesFromAnyProvider(){
+  for(const provider of MOVIE_PROVIDERS){
+    try {
+      const movies = await provider.run();
+      if(movies && movies.length > 0) return { movies, source: provider.name };
+    } catch(err){
+      // このプロバイダは失敗。次のプロバイダを試す。
+    }
+  }
+  return null;
+}
+
+// Filmarks・映画.comは口コミ情報を持つが、映画単位を直接指すURLを外部から
+// 確実に組み立てる公開APIがないため、作品タイトルでの検索リンクとして案内する。
+// (eiga.comは/search/{キーワード}/という実際のURLパターンを確認済み。
+//  Filmarksは検索ページがJavaScriptで結果を描画する作りのため、
+//  確実に結果へたどり着けるようGoogleのサイト内検索経由でリンクする)
+function buildReviewLinks(title){
+  const q = encodeURIComponent(title);
+  const eigaComUrl = `https://eiga.com/search/${q}/`;
+  const filmarksUrl = `https://www.google.com/search?q=${encodeURIComponent(title + ' site:filmarks.com')}`;
+  const amazonUrl = `https://www.amazon.co.jp/s?k=${q}&i=instant-video`;
+  return `
+    <div class="review-links">
+      <a class="review-tab" href="${filmarksUrl}" target="_blank" rel="noopener">Filmarksの口コミを見る</a>
+      <a class="review-tab" href="${eigaComUrl}" target="_blank" rel="noopener">映画.comの口コミを見る</a>
+      <a class="review-tab" href="${amazonUrl}" target="_blank" rel="noopener">Amazonで探す</a>
+    </div>
+  `;
+}
+
+// TMDbの検索APIでタイトルからTMDb作品IDを推測する(TMDb以外から来た映画・厳選リストの映画向け)
+async function findTMDbIdByTitle(title, year){
+  if(!TMDB_API_KEY || TMDB_API_KEY === "YOUR_TMDB_API_KEY") return null;
+  const params = new URLSearchParams({ api_key: TMDB_API_KEY, language: 'ja-JP', query: title });
+  if(year) params.set('year', year);
+  const res = await fetch(`https://api.themoviedb.org/3/search/movie?${params.toString()}`);
+  if(!res.ok) return null;
+  const data = await res.json();
+  const first = (data.results || [])[0];
+  return first ? first.id : null;
+}
+
+// TMDbのWatch Providers API(JustWatch提供データ)で、日本のAmazonプライムビデオ(見放題/広告つき)に
+// 含まれているかどうかを確認する。TMDbのAPIキーがあれば追加登録不要で使える。
+async function isAvailableOnPrimeVideo(tmdbId){
+  const res = await fetch(`https://api.themoviedb.org/3/movie/${tmdbId}/watch/providers?api_key=${TMDB_API_KEY}`);
+  if(!res.ok) return false;
+  const data = await res.json();
+  const jp = data.results && data.results.JP;
+  if(!jp) return false;
+  const candidates = [...(jp.flatrate || []), ...(jp.ads || [])];
+  return candidates.some(p => p.provider_name && p.provider_name.includes('Amazon Prime Video'));
+}
+
+// 各映画カードのAmazonプライムバッジを、非同期にひとつずつ確認して更新する
+// (取得できない・配信がない場合はバッジごと消して静かにフォールバックする)
+async function updatePrimeBadges(movies){
+  await Promise.all(movies.map(async (m, idx) => {
+    const badgeEl = document.getElementById(`prime-badge-${idx}`);
+    if(!badgeEl) return;
+    try {
+      const tmdbId = m.tmdbId || await findTMDbIdByTitle(m.title, m.year);
+      if(!tmdbId){ badgeEl.remove(); return; }
+      const available = await isAvailableOnPrimeVideo(tmdbId);
+      if(available){
+        badgeEl.textContent = 'Amazonプライムで配信中';
+        badgeEl.classList.remove('loading');
+        badgeEl.classList.add('available');
+      } else {
+        badgeEl.remove();
+      }
+    } catch(err){
+      badgeEl.remove();
+    }
+  }));
+}
+
+function renderMovies(movies, usedFallback, sourceLabel){
+  const note = usedFallback
+    ? (dynamicFallbackMovies
+        ? `<p class="loading-note">通信状況により外部検索ができなかったため、定期更新された映画リストから表示しています。${dynamicFallbackUpdatedAt ? `(最終更新: ${dynamicFallbackUpdatedAt})` : ''}</p>`
+        : `<p class="loading-note">通信状況により外部検索ができなかったため、あらかじめ用意した映画から表示しています。</p>`)
+    : `<p class="loading-note">${sourceLabel}から探した映画です。詳細はリンク先でご確認ください。</p>`;
+
+  const moviesHtml = movies.map((m, idx) => `
+    <div class="movie">
+      ${m.cover ? `<img class="cover" src="${m.cover}" alt="${m.title}のポスター">` : `<div class="poster-mark" style="background:${m.tint || '#5c4a9c'};">🎬</div>`}
+      <div class="movie-body">
+        <h3>${m.title}</h3>
+        <div class="meta">${m.director ? m.director + '／' : ''}${m.year}${m.rating ? ' ・★' + m.rating : ''}<span class="prime-badge loading" id="prime-badge-${idx}">Prime Video確認中…</span></div>
+        ${m.time ? `<div class="time-tag">${TIME_NOTE[m.time]}</div>` : (m.runtimeMs ? `<div class="time-tag">約${Math.round(m.runtimeMs/60000)}分</div>` : '')}
+        <div class="why"><b>おすすめする理由　</b>${m.why}</div>
+        ${m.link ? `<a class="movie-link" href="${m.link}" target="_blank" rel="noopener">詳細を見る</a>` : ''}
+        ${buildReviewLinks(m.title)}
+      </div>
+    </div>
+  `).join('');
+
+  document.getElementById('movies').innerHTML = note + moviesHtml;
+  updatePrimeBadges(movies);
+}
+
+async function showCombinedResults(){
+  const primary = EMOTIONS[selectedCategory];
+  const secondary = (selectedCategory !== selectedColorCategory) ? EMOTIONS[selectedColorCategory] : null;
+
+  document.getElementById('empathyBox').innerHTML = secondary
+    ? `<b>今の気持ち：${primary.label}／色からは${secondary.label}のニュアンスも</b>${primary.message}`
+    : `<b>今の気持ち：${primary.label}</b>${primary.message}`;
+
+  document.getElementById('waitingHint').style.display = 'none';
+  document.getElementById('result').style.display = 'block';
+  document.getElementById('movies').innerHTML = `<p class="loading-note">映画を探しています…</p>`;
+  document.getElementById('result').scrollIntoView({ behavior:'smooth', block:'nearest' });
+
+  let movies = [];
+  let usedFallback = false;
+  let sourceLabel = '';
+  try {
+    const result = await fetchMoviesFromAnyProvider();
+    if(!result) throw new Error('no provider returned results');
+    movies = result.movies;
+    sourceLabel = result.source;
+  } catch(err){
+    usedFallback = true;
+    const fallbackPool = await loadDynamicFallbackMovies();
+    movies = secondary
+      ? [...pickMoviesForCategory(selectedCategory, 2, fallbackPool), ...pickMoviesForCategory(selectedColorCategory, 1, fallbackPool)]
+      : pickMoviesForCategory(selectedCategory, 3, fallbackPool);
+  }
+
+  renderMovies(movies, usedFallback, sourceLabel);
+}
+
+renderCatChips();
+renderColorGrid();
+renderOutcomeChips();
+renderTimeChips();
+</script>
+</body>
+</html>
