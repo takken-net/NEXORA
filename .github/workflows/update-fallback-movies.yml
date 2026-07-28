@@ -31,10 +31,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- fallback-movies.json; then
-            echo "変更なし。コミットをスキップします。"
-          else
+          if [ -n "$(git status --porcelain -- fallback-movies.json)" ]; then
             git add fallback-movies.json
             git commit -m "chore: fallback-movies.jsonを自動更新"
             git push
+          else
+            echo "変更なし。コミットをスキップします。"
           fi
