@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28",
+  "updatedAt": "2026-08-02",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
@@ -10,20 +10,9 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
       },
       {
         "title": "プラダを着た悪魔２",
@@ -37,6 +26,17 @@
         "tmdbId": 1314481
       },
       {
+        "title": "Deseo",
+        "director": "Teresa Simone",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
+        "tmdbId": 1668364
+      },
+      {
         "title": "Michael／マイケル",
         "director": "アントワーン・フークア",
         "year": "2026",
@@ -48,6 +48,17 @@
         "tmdbId": 936075
       },
       {
+        "title": "オデッセイ",
+        "director": "リドリー・スコット",
+        "year": "2015",
+        "why": "火星の有人探査計画「アレス3」は、猛烈な砂嵐のせいでやむなく中止を余儀なくされるが、撤収作業中、クルーの一員である植物学者のワトニーが、不慮の事故で吹き飛ばされ、行方不明に。状況か…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/zb8ExBIjEbXDfjmXoFQHXVIaf2v.jpg",
+        "link": "https://www.themoviedb.org/movie/286217?language=ja-JP",
+        "tmdbId": 286217
+      },
+      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -57,17 +68,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
-      },
-      {
-        "title": "インターステラー",
-        "director": "クリストファー・ノーラン",
-        "year": "2014",
-        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
-        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
-        "tmdbId": 157336
       }
     ],
     "sadness": [
@@ -78,20 +78,9 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
       },
       {
         "title": "プラダを着た悪魔２",
@@ -105,6 +94,17 @@
         "tmdbId": 1314481
       },
       {
+        "title": "Deseo",
+        "director": "Teresa Simone",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
+        "tmdbId": 1668364
+      },
+      {
         "title": "Michael／マイケル",
         "director": "アントワーン・フークア",
         "year": "2026",
@@ -116,6 +116,17 @@
         "tmdbId": 936075
       },
       {
+        "title": "オデッセイ",
+        "director": "リドリー・スコット",
+        "year": "2015",
+        "why": "火星の有人探査計画「アレス3」は、猛烈な砂嵐のせいでやむなく中止を余儀なくされるが、撤収作業中、クルーの一員である植物学者のワトニーが、不慮の事故で吹き飛ばされ、行方不明に。状況か…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/zb8ExBIjEbXDfjmXoFQHXVIaf2v.jpg",
+        "link": "https://www.themoviedb.org/movie/286217?language=ja-JP",
+        "tmdbId": 286217
+      },
+      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -125,17 +136,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
-      },
-      {
-        "title": "インターステラー",
-        "director": "クリストファー・ノーラン",
-        "year": "2014",
-        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
-        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
-        "tmdbId": 157336
       }
     ],
     "tired": [
@@ -149,6 +149,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
       },
       {
         "title": "トイ・ストーリー５",
@@ -173,15 +184,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "プラダを着た悪魔２",
+        "director": "デヴィッド・フランケル",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
+        "tmdbId": 1314481
       },
       {
         "title": "Deseo",
@@ -193,17 +204,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
         "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
         "tmdbId": 1668364
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
       }
     ],
     "loneliness": [
@@ -214,20 +214,9 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
       },
       {
         "title": "プラダを着た悪魔２",
@@ -239,6 +228,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
         "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
         "tmdbId": 1314481
+      },
+      {
+        "title": "Deseo",
+        "director": "Teresa Simone",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
+        "tmdbId": 1668364
       },
       {
         "title": "Michael／マイケル",
@@ -252,6 +252,17 @@
         "tmdbId": 936075
       },
       {
+        "title": "オデッセイ",
+        "director": "リドリー・スコット",
+        "year": "2015",
+        "why": "火星の有人探査計画「アレス3」は、猛烈な砂嵐のせいでやむなく中止を余儀なくされるが、撤収作業中、クルーの一員である植物学者のワトニーが、不慮の事故で吹き飛ばされ、行方不明に。状況か…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/zb8ExBIjEbXDfjmXoFQHXVIaf2v.jpg",
+        "link": "https://www.themoviedb.org/movie/286217?language=ja-JP",
+        "tmdbId": 286217
+      },
+      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -261,17 +272,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
-      },
-      {
-        "title": "インターステラー",
-        "director": "クリストファー・ノーラン",
-        "year": "2014",
-        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
-        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
-        "tmdbId": 157336
       }
     ],
     "anger": [
@@ -298,15 +298,15 @@
         "tmdbId": 1339713
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "悪魔の口",
+        "director": "Jeff Wadlow",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "\"悪魔の口\"と呼ばれるタイの水中洞窟。５人の仲間たちは、社会へ踏み出す前の最後の冒険として、その奥深くへと挑む。だが彼らはすぐ気づく。水の底に、自分たちを獲物として狙う\"何か\"がい…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/qQpDxw7w7Dle5xPZxaNEAkeLGzQ.jpg",
+        "link": "https://www.themoviedb.org/movie/1481343?language=ja-JP",
+        "tmdbId": 1481343
       },
       {
         "title": "Kraken",
@@ -320,26 +320,26 @@
         "tmdbId": 1110034
       },
       {
-        "title": "Deep Water",
-        "director": "レニー・ハーリン",
+        "title": "72時間",
+        "director": "Tim Story",
+        "year": "2026",
+        "why": "20代の若者たちのグループチャットに誤って追加されてしまった40歳の広告代理店役員。自分のキャリアを立て直すため、マイアミで彼らのワイルドなバチェラーパーティーに参加することに。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "link": "https://www.themoviedb.org/movie/949838?language=ja-JP",
+        "tmdbId": 949838
+      },
+      {
+        "title": "火遮眼",
+        "director": "谷垣健治",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-        "link": "https://www.themoviedb.org/movie/1127384?language=ja-JP",
-        "tmdbId": 1127384
-      },
-      {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+        "link": "https://www.themoviedb.org/movie/1280738?language=ja-JP",
+        "tmdbId": 1280738
       }
     ],
     "stagnation": [
@@ -350,31 +350,9 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
-      },
-      {
-        "title": "Твоё сердце будет разбито",
-        "director": "Михаил Вайнберг",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/naOC89qeEygU44xM9EIot1m5AUQ.jpg",
-        "link": "https://www.themoviedb.org/movie/1523145?language=ja-JP",
-        "tmdbId": 1523145
       },
       {
         "title": "プラダを着た悪魔２",
@@ -388,6 +366,28 @@
         "tmdbId": 1314481
       },
       {
+        "title": "Твоё сердце будет разбито",
+        "director": "Михаил Вайнберг",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+        "link": "https://www.themoviedb.org/movie/1523145?language=ja-JP",
+        "tmdbId": 1523145
+      },
+      {
+        "title": "Deseo",
+        "director": "Teresa Simone",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
+        "tmdbId": 1668364
+      },
+      {
         "title": "Michael／マイケル",
         "director": "アントワーン・フークア",
         "year": "2026",
@@ -399,18 +399,29 @@
         "tmdbId": 936075
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
+        "title": "オデッセイ",
+        "director": "リドリー・スコット",
+        "year": "2015",
+        "why": "火星の有人探査計画「アレス3」は、猛烈な砂嵐のせいでやむなく中止を余儀なくされるが、撤収作業中、クルーの一員である植物学者のワトニーが、不慮の事故で吹き飛ばされ、行方不明に。状況か…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/zb8ExBIjEbXDfjmXoFQHXVIaf2v.jpg",
+        "link": "https://www.themoviedb.org/movie/286217?language=ja-JP",
+        "tmdbId": 286217
       }
     ],
     "adventure": [
+      {
+        "title": "スパイダーマン：ブランド・ニュー・デイ",
+        "director": "デスティン・ダニエル・クレットン",
+        "year": "2026",
+        "why": "愛する人たちを守るために、彼らの記憶から自らの存在を消すという決断をした『スパイダーマン：ノー・ウェイ・ホーム』の出来事から４年。大人になったピーター・パーカーはスパイダーマンとし…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7PcF86qQCgOvHwueU3cFe1VMkzc.jpg",
+        "link": "https://www.themoviedb.org/movie/969681?language=ja-JP",
+        "tmdbId": 969681
+      },
       {
         "title": "オデュッセイア",
         "director": "クリストファー・ノーラン",
@@ -421,17 +432,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
         "link": "https://www.themoviedb.org/movie/1368337?language=ja-JP",
         "tmdbId": 1368337
-      },
-      {
-        "title": "マスターズ・オブ・ユニバース",
-        "director": "トラヴィス・ナイト",
-        "year": "2026",
-        "why": "惑星エターニアの王子として生まれたアダム。 幼い頃に故郷で戦争が勃発し、身を守るべく“誰にも知られない場所”である地球に送り込まれた。15年後、成長したアダムは伝説の剣“パワーソー…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lt2srJwUQGRelB9Vsc374lrTQyl.jpg",
-        "link": "https://www.themoviedb.org/movie/454639?language=ja-JP",
-        "tmdbId": 454639
       },
       {
         "title": "スーパーガール",
@@ -445,6 +445,28 @@
         "tmdbId": 1081003
       },
       {
+        "title": "マスターズ・オブ・ユニバース",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "惑星エターニアの王子として生まれたアダム。 幼い頃に故郷で戦争が勃発し、身を守るべく“誰にも知られない場所”である地球に送り込まれた。15年後、成長したアダムは伝説の剣“パワーソー…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/lt2srJwUQGRelB9Vsc374lrTQyl.jpg",
+        "link": "https://www.themoviedb.org/movie/454639?language=ja-JP",
+        "tmdbId": 454639
+      },
+      {
+        "title": "スパイダーマン：ノー・ウェイ・ホーム",
+        "director": "ジョン・ワッツ",
+        "year": "2021",
+        "why": "倒した敵の暴露により、世間から悪評を受けるスパイダーマン。自分の正体が知られていない世界に戻りたいと思うようになった彼は、友人のドクター・ストレンジに助けを求める。やがて魔法の力で…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/j2vwjzuofol93OcSn8xAHJiTEoz.jpg",
+        "link": "https://www.themoviedb.org/movie/634649?language=ja-JP",
+        "tmdbId": 634649
+      },
+      {
         "title": "モアナと伝説の海",
         "director": "Thomas Kail",
         "year": "2026",
@@ -454,28 +476,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
       }
     ],
     "calm": [
@@ -491,6 +491,17 @@
         "tmdbId": 1108427
       },
       {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
         "year": "2026",
@@ -513,15 +524,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "プラダを着た悪魔２",
+        "director": "デヴィッド・フランケル",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
+        "tmdbId": 1314481
       },
       {
         "title": "Deseo",
@@ -533,20 +544,20 @@
         "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
         "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
         "tmdbId": 1668364
-      },
+      }
+    ],
+    "confusion": [
       {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      }
-    ],
-    "confusion": [
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
       {
         "title": "バックルームズ",
         "director": "ケイン・パーソンズ",
@@ -559,15 +570,15 @@
         "tmdbId": 1083381
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "プラダを着た悪魔２",
+        "director": "デヴィッド・フランケル",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
+        "tmdbId": 1314481
       },
       {
         "title": "Deseo",
@@ -579,17 +590,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
         "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
         "tmdbId": 1668364
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
       },
       {
         "title": "Michael／マイケル",
@@ -603,15 +603,15 @@
         "tmdbId": 936075
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
+        "title": "THE MUMMY／ザ・マミー 棺の中の少女",
+        "director": "リー・クローニン",
+        "year": "2026",
+        "why": "８年前エジプトで失踪した少女が、変わり果てた姿で見つかった―  彼女にいったい何が起きたのか？  空白の8年間の真相に近づいた時、エジプトのある呪われた土地にまつわる、身の毛もよだ…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/flncn3ThaEjZv3TlR3pWKJuHP5B.jpg",
+        "link": "https://www.themoviedb.org/movie/1304313?language=ja-JP",
+        "tmdbId": 1304313
       }
     ],
     "gratitude": [
@@ -627,6 +627,17 @@
         "tmdbId": 1108427
       },
       {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
         "year": "2026",
@@ -649,15 +660,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "プラダを着た悪魔２",
+        "director": "デヴィッド・フランケル",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
+        "tmdbId": 1314481
       },
       {
         "title": "Deseo",
@@ -669,17 +680,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
         "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
         "tmdbId": 1668364
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
       }
     ],
     "joy": [
@@ -739,15 +739,15 @@
         "tmdbId": 1314481
       },
       {
-        "title": "Descendants: Wicked Wonderland",
-        "director": "キム・ゲートウッド",
+        "title": "72時間",
+        "director": "Tim Story",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "why": "20代の若者たちのグループチャットに誤って追加されてしまった40歳の広告代理店役員。自分のキャリアを立て直すため、マイアミで彼らのワイルドなバチェラーパーティーに参加することに。",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/rqj4cFAua0vwazt6MyzuWK9Y5TS.jpg",
-        "link": "https://www.themoviedb.org/movie/1318621?language=ja-JP",
-        "tmdbId": 1318621
+        "cover": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "link": "https://www.themoviedb.org/movie/949838?language=ja-JP",
+        "tmdbId": 949838
       }
     ],
     "fun": [
@@ -774,17 +774,6 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
         "title": "Avatar Aang: The Last Airbender",
         "director": "Lauren Montgomery",
         "year": "2026",
@@ -796,6 +785,28 @@
         "tmdbId": 980431
       },
       {
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
+        "year": "2026",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
+      },
+      {
+        "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+        "director": "外崎春雄",
+        "year": "2025",
+        "why": "鬼となった妹・禰󠄀豆子を人間に戻すため鬼狩りの組織《鬼殺隊》に入った竈門炭治郎。入隊後、仲間である我妻善逸、嘴平伊之助と共に様々な鬼と戦い、成長しながら友情や絆を深めていく。そし…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/qjyWDOYokheTTWLMzwJAuvSJeYg.jpg",
+        "link": "https://www.themoviedb.org/movie/1311031?language=ja-JP",
+        "tmdbId": 1311031
+      },
+      {
         "title": "最終絶叫計画 令和！",
         "director": "Michael Tiddes",
         "year": "2026",
@@ -805,17 +816,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/1FuR7UUvf7YBIwD7m2hsZ9VjlGg.jpg",
         "link": "https://www.themoviedb.org/movie/1273221?language=ja-JP",
         "tmdbId": 1273221
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
       }
     ]
   }
