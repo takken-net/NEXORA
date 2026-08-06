@@ -4,7 +4,7 @@
 
 ## 公開手順(GitHub Pages)
 
-1. GitHubで新しい**公開(Public)**リポジトリを作成する(例: `kimochi-movie`)。
+1. GitHubで新しい**公開(Public)**リポジトリ を作成する(例: `kimochi-movie`)。
    ※GitHubの無料プランでは、Pagesは公開リポジトリのみで使えます。
 
 2. このフォルダの中身(`index.html`、`.github`フォルダ、`scripts`フォルダ)をリポジトリのルートにそのままアップロードする。
