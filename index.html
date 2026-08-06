@@ -407,24 +407,75 @@ const OUTCOME_QUERY_TERMS = {
   cry:      "泣ける"
 };
 
-// ---- 色のパレット(全15色。似た色が並ばないよう、色相を混ぜて配置) ----
-const COLOR_SWATCHES = [
-  { color:"#e63946", category:"anger" },        // 赤
-  { color:"#f7d94c", category:"joy" },          // 黄
-  { color:"#3b6ea5", category:"sadness" },      // 青
-  { color:"#b5d94c", category:"fun" },          // 黄緑
-  { color:"#8a63c9", category:"anxiety" },      // 紫
-  { color:"#f4a340", category:"adventure" },    // オレンジ
-  { color:"#4caf50", category:"gratitude" },    // 緑
-  { color:"#22254a", category:"loneliness" },   // 濃紺
-  { color:"#d9527a", category:"stagnation" },   // 濃いピンク
-  { color:"#5bc8d9", category:"tired" },        // 水色
-  { color:"#b94fc9", category:"confusion" },    // マゼンタ
-  { color:"#4fb8a8", category:"calm" },         // ティール
-  { color:"#232019", category:"sadness" },      // 黒に近い
-  { color:"#f4f0e6", category:"gratitude" },    // 白に近い
-  { color:"#e8875a", category:"fun" }           // ピーチ
-];
+// ---- 色のパレット ----
+// 色相が重ならないよう、赤・オレンジ・黄・黄緑・緑・青緑・青・紫・黒・白グレーの
+// 10系統を1カテゴリ1系統ずつ割り当て。各系統に明暗の差が大きいグラデーションを
+// 複数用意しておき、ページを開くたびにランダムに1つずつ選んで表示する。
+const COLOR_POOL = {
+  anger: [ // 赤
+    "linear-gradient(135deg, #ff6b6b, #9d0208)",
+    "linear-gradient(135deg, #ff8fa3, #6a040f)",
+    "linear-gradient(135deg, #f94144, #370617)"
+  ],
+  joy: [ // 黄
+    "linear-gradient(135deg, #fff275, #f9844a)",
+    "linear-gradient(135deg, #ffea00, #ff8600)",
+    "linear-gradient(135deg, #fef9ef, #ffb703)"
+  ],
+  adventure: [ // オレンジ
+    "linear-gradient(135deg, #ffba08, #d00000)",
+    "linear-gradient(135deg, #f48c06, #6a040f)",
+    "linear-gradient(135deg, #ffd60a, #e85d04)"
+  ],
+  fun: [ // 黄緑
+    "linear-gradient(135deg, #d9ed92, #52b69a)",
+    "linear-gradient(135deg, #b5e48c, #1a759f)",
+    "linear-gradient(135deg, #eeef20, #4c9a2a)"
+  ],
+  gratitude: [ // 緑
+    "linear-gradient(135deg, #74c69d, #1b4332)",
+    "linear-gradient(135deg, #95d5b2, #081c15)",
+    "linear-gradient(135deg, #40916c, #081c15)"
+  ],
+  tired: [ // 青緑
+    "linear-gradient(135deg, #90e0ef, #023047)",
+    "linear-gradient(135deg, #48cae4, #03045e)",
+    "linear-gradient(135deg, #ade8f4, #0077b6)"
+  ],
+  sadness: [ // 青
+    "linear-gradient(135deg, #a2d2ff, #14213d)",
+    "linear-gradient(135deg, #669bbc, #003049)",
+    "linear-gradient(135deg, #219ebc, #001233)"
+  ],
+  anxiety: [ // 紫
+    "linear-gradient(135deg, #c77dff, #3c096c)",
+    "linear-gradient(135deg, #e0aaff, #240046)",
+    "linear-gradient(135deg, #9d4edd, #240046)"
+  ],
+  loneliness: [ // 黒
+    "linear-gradient(135deg, #6c757d, #000000)",
+    "linear-gradient(135deg, #495057, #000000)",
+    "linear-gradient(135deg, #adb5bd, #000000)"
+  ],
+  stagnation: [ // 白グレー
+    "linear-gradient(135deg, #f8f9fa, #6c757d)",
+    "linear-gradient(135deg, #e9ecef, #495057)",
+    "linear-gradient(135deg, #ffffff, #343a40)"
+  ]
+};
+
+// COLOR_POOLの各カテゴリからランダムに1系統選び、並び順もシャッフルする
+// (shuffle関数は下の方で定義されているが、関数宣言は巻き上げられるためここで呼んでも問題ない)
+function buildColorSwatches(){
+  const picks = Object.keys(COLOR_POOL).map(category => {
+    const variants = COLOR_POOL[category];
+    const gradient = variants[Math.floor(Math.random() * variants.length)];
+    return { gradient, category };
+  });
+  return shuffle(picks);
+}
+
+let COLOR_SWATCHES = buildColorSwatches();
 
 // 絵の具のにじみのような、いびつな丸(ブロブ)の形をborder-radiusで再現
 const BLOB_SHAPES = [
@@ -451,7 +502,7 @@ function renderCatChips(){
 function renderColorGrid(){
   const wrap = document.getElementById('colorGrid');
   wrap.innerHTML = COLOR_SWATCHES.map((s, i) =>
-    `<div class="color-swatch" id="swatch-${i}" style="background:${s.color};border-radius:${BLOB_SHAPES[i % BLOB_SHAPES.length]};" onclick="selectColor('${s.category}', ${i})"></div>`
+    `<div class="color-swatch" id="swatch-${i}" style="background:${s.gradient};border-radius:${BLOB_SHAPES[i % BLOB_SHAPES.length]};" onclick="selectColor('${s.category}', ${i})"></div>`
   ).join('');
 }
 
