@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09",
+  "updatedAt": "2026-08-16",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
@@ -15,6 +15,28 @@
         "tmdbId": 1284465
       },
       {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      },
+      {
         "title": "プラダを着た悪魔２",
         "director": "デヴィッド・フランケル",
         "year": "2026",
@@ -26,48 +48,26 @@
         "tmdbId": 1314481
       },
       {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
+        "title": "Vixen!",
+        "director": "ラス・メイヤー",
+        "year": "1968",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
+        "cover": "https://image.tmdb.org/t/p/w200/yhrgKF7liN1Tife0KuwA2fYHmVe.jpg",
+        "link": "https://www.themoviedb.org/movie/5721?language=ja-JP",
+        "tmdbId": 5721
       },
       {
-        "title": "パニッシャー：ワン・ラスト・キル",
-        "director": "Reinaldo Marcus Green",
-        "year": "2026",
-        "why": "フランク・キャッスルが復讐を超えた意味を求める中、思いがけない力が彼を再び戦いに引き戻す。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/2McZwljZuKywP9aepis2Z1RUT87.jpg",
-        "link": "https://www.themoviedb.org/movie/1439930?language=ja-JP",
-        "tmdbId": 1439930
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "ショーシャンクの空に",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
+        "tmdbId": 278
       }
     ],
     "sadness": [
@@ -83,6 +83,28 @@
         "tmdbId": 1284465
       },
       {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      },
+      {
         "title": "プラダを着た悪魔２",
         "director": "デヴィッド・フランケル",
         "year": "2026",
@@ -94,51 +116,40 @@
         "tmdbId": 1314481
       },
       {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
+        "title": "Vixen!",
+        "director": "ラス・メイヤー",
+        "year": "1968",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
+        "cover": "https://image.tmdb.org/t/p/w200/yhrgKF7liN1Tife0KuwA2fYHmVe.jpg",
+        "link": "https://www.themoviedb.org/movie/5721?language=ja-JP",
+        "tmdbId": 5721
       },
       {
-        "title": "パニッシャー：ワン・ラスト・キル",
-        "director": "Reinaldo Marcus Green",
-        "year": "2026",
-        "why": "フランク・キャッスルが復讐を超えた意味を求める中、思いがけない力が彼を再び戦いに引き戻す。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/2McZwljZuKywP9aepis2Z1RUT87.jpg",
-        "link": "https://www.themoviedb.org/movie/1439930?language=ja-JP",
-        "tmdbId": 1439930
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "ショーシャンクの空に",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
+        "tmdbId": 278
       }
     ],
     "tired": [
+      {
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
+        "year": "2026",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -162,48 +173,37 @@
         "tmdbId": 1284465
       },
       {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
         "title": "モアナと伝説の海",
         "director": "Thomas Kail",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
       },
       {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
       }
     ],
     "loneliness": [
@@ -219,6 +219,28 @@
         "tmdbId": 1284465
       },
       {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      },
+      {
         "title": "プラダを着た悪魔２",
         "director": "デヴィッド・フランケル",
         "year": "2026",
@@ -230,61 +252,39 @@
         "tmdbId": 1314481
       },
       {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
+        "title": "Vixen!",
+        "director": "ラス・メイヤー",
+        "year": "1968",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
+        "cover": "https://image.tmdb.org/t/p/w200/yhrgKF7liN1Tife0KuwA2fYHmVe.jpg",
+        "link": "https://www.themoviedb.org/movie/5721?language=ja-JP",
+        "tmdbId": 5721
       },
       {
-        "title": "パニッシャー：ワン・ラスト・キル",
-        "director": "Reinaldo Marcus Green",
-        "year": "2026",
-        "why": "フランク・キャッスルが復讐を超えた意味を求める中、思いがけない力が彼を再び戦いに引き戻す。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/2McZwljZuKywP9aepis2Z1RUT87.jpg",
-        "link": "https://www.themoviedb.org/movie/1439930?language=ja-JP",
-        "tmdbId": 1439930
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "ショーシャンクの空に",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
+        "tmdbId": 278
       }
     ],
     "anger": [
       {
-        "title": "ディスクロージャー・デイ",
-        "director": "スティーヴン・スピルバーグ",
+        "title": "ザ・ラストハウス",
+        "director": "ルイ・レテリエ",
         "year": "2026",
-        "why": "気象キャスターのマーガレットとサイバーセキュリティのエキスパート、ダニエル。接点のないはずの二人が衝撃的な機密情報を知ることとなった。やがて、その秘密を明らかにする使命を負った彼ら…",
-        "time": "long",
+        "why": "突然開かなくなった扉や窓、次第に乏しくなる食糧、そして自分たちを閉じ込め続ける得体の知れない何か。家から出られなくなってしまった一家は、力を合わせて生き延びる方法を模索するが...…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/txoWOh844v841hItSPG17S1bXjU.jpg",
-        "link": "https://www.themoviedb.org/movie/1275779?language=ja-JP",
-        "tmdbId": 1275779
+        "cover": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "link": "https://www.themoviedb.org/movie/1284041?language=ja-JP",
+        "tmdbId": 1284041
       },
       {
         "title": "オブセッション 災愛",
@@ -298,19 +298,30 @@
         "tmdbId": 1339713
       },
       {
-        "title": "ザ・ラストハウス",
-        "director": "ルイ・レテリエ",
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
         "year": "2026",
-        "why": "突然開かなくなった扉や窓、次第に乏しくなる食糧、そして自分たちを閉じ込め続ける得体の知れない何か。家から出られなくなってしまった一家は、力を合わせて生き延びる方法を模索するが...…",
-        "time": "medium",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "link": "https://www.themoviedb.org/movie/1284041?language=ja-JP",
-        "tmdbId": 1284041
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
+      },
+      {
+        "title": "ディスクロージャー・デイ",
+        "director": "スティーヴン・スピルバーグ",
+        "year": "2026",
+        "why": "気象キャスターのマーガレットとサイバーセキュリティのエキスパート、ダニエル。接点のないはずの二人が衝撃的な機密情報を知ることとなった。やがて、その秘密を明らかにする使命を負った彼ら…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/txoWOh844v841hItSPG17S1bXjU.jpg",
+        "link": "https://www.themoviedb.org/movie/1275779?language=ja-JP",
+        "tmdbId": 1275779
       },
       {
         "title": "悪魔の口",
-        "director": "Jeff Wadlow",
+        "director": "ジェフ・ワドロウ",
         "year": "2026",
         "why": "\"悪魔の口\"と呼ばれるタイの水中洞窟。５人の仲間たちは、社会へ踏み出す前の最後の冒険として、その奥深くへと挑む。だが彼らはすぐ気づく。水の底に、自分たちを獲物として狙う\"何か\"がい…",
         "time": "medium",
@@ -320,26 +331,15 @@
         "tmdbId": 1481343
       },
       {
-        "title": "Kraken",
-        "director": "Pål Øie",
+        "title": "Soulm8te",
+        "director": "Kate Dolan",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg",
-        "link": "https://www.themoviedb.org/movie/1110034?language=ja-JP",
-        "tmdbId": 1110034
-      },
-      {
-        "title": "Deep Water",
-        "director": "レニー・ハーリン",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-        "link": "https://www.themoviedb.org/movie/1127384?language=ja-JP",
-        "tmdbId": 1127384
+        "cover": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "link": "https://www.themoviedb.org/movie/1307118?language=ja-JP",
+        "tmdbId": 1307118
       }
     ],
     "stagnation": [
@@ -355,6 +355,28 @@
         "tmdbId": 1284465
       },
       {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      },
+      {
         "title": "Leviticus",
         "director": "Adrian Chiarella",
         "year": "2026",
@@ -366,39 +388,6 @@
         "tmdbId": 1564614
       },
       {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
-      },
-      {
         "title": "Твоё сердце будет разбито",
         "director": "Михаил Вайнберг",
         "year": "2026",
@@ -408,6 +397,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
         "link": "https://www.themoviedb.org/movie/1523145?language=ja-JP",
         "tmdbId": 1523145
+      },
+      {
+        "title": "プラダを着た悪魔２",
+        "director": "デヴィッド・フランケル",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
+        "tmdbId": 1314481
       }
     ],
     "adventure": [
@@ -445,15 +445,26 @@
         "tmdbId": 634649
       },
       {
-        "title": "スーパーガール",
-        "director": "クレイグ・ギレスピー",
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
         "year": "2026",
-        "why": "ジェームズ・ガン監督による2025年公開の映画「スーパーマン」に続くDCユニバース作品で、スーパーマン／クラーク・ケントの従妹であるスーパーガール／カーラ・ゾー＝エルを主人公に描い…",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
+      },
+      {
+        "title": "군체",
+        "director": "ヨン・サンホ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/1BcPlUEB0WmjaE7wkaxndXfDFh3.jpg",
-        "link": "https://www.themoviedb.org/movie/1081003?language=ja-JP",
-        "tmdbId": 1081003
+        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
+        "tmdbId": 1375646
       },
       {
         "title": "トイ・ストーリー５",
@@ -465,42 +476,9 @@
         "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
         "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
         "tmdbId": 1084244
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
       }
     ],
     "calm": [
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
       {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
@@ -513,37 +491,59 @@
         "tmdbId": 1315772
       },
       {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
         "title": "モアナと伝説の海",
         "director": "Thomas Kail",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
       },
       {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
       }
     ],
     "confusion": [
@@ -559,6 +559,17 @@
         "tmdbId": 1284465
       },
       {
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
+        "year": "2026",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
+      },
+      {
         "title": "バックルームズ",
         "director": "ケイン・パーソンズ",
         "year": "2026",
@@ -570,6 +581,28 @@
         "tmdbId": 1083381
       },
       {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      },
+      {
         "title": "プラダを着た悪魔２",
         "director": "デヴィッド・フランケル",
         "year": "2026",
@@ -579,42 +612,20 @@
         "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
         "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      },
-      {
-        "title": "Deseo",
-        "director": "Teresa Simone",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-        "link": "https://www.themoviedb.org/movie/1668364?language=ja-JP",
-        "tmdbId": 1668364
-      },
-      {
-        "title": "ズートピア2",
-        "director": "ジャレド・ブッシュ",
-        "year": "2025",
-        "why": "警察学校を無事卒業し警察官となったニックと、ウサギ初の警官として以前にもまして熱心に任務に挑むジュディが再びバディを組むことに！ある日、ズートピアに突如現れたヘビ・ゲイリーをきっか…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sp8eWmg3HwNKdqdgGhoE2XACfO6.jpg",
-        "link": "https://www.themoviedb.org/movie/1084242?language=ja-JP",
-        "tmdbId": 1084242
       }
     ],
     "gratitude": [
+      {
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
+        "year": "2026",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -638,6 +649,41 @@
         "tmdbId": 1284465
       },
       {
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
+      },
+      {
+        "title": "Hotel Desire",
+        "director": "Sergej Moya",
+        "year": "2011",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
+        "tmdbId": 82023
+      },
+      {
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
+      }
+    ],
+    "joy": [
+      {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
         "year": "2026",
@@ -648,41 +694,6 @@
         "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
         "tmdbId": 1315772
       },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
-      }
-    ],
-    "joy": [
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -695,24 +706,13 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
         "title": "モアナと伝説の海",
         "director": "Thomas Kail",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
       },
@@ -728,40 +728,29 @@
         "tmdbId": 1273221
       },
       {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
       },
       {
-        "title": "ザ・スーパーマリオギャラクシー・ムービー",
-        "director": "Michael Jelenic",
+        "title": "Jackass: Best and Last",
+        "director": "Jeff Tremaine",
         "year": "2026",
-        "why": "クッパの前回の「ピーチ姫との結婚計画」を阻止したマリオとルイージだったが、今度は新たな脅威としてクッパ Jr.が立ちはだかる。彼は捕らわれた父を解放し、一族の栄光を取り戻そうと決意…",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vCd6bMwiMN0NQIKdohYTZTgSBLu.jpg",
-        "link": "https://www.themoviedb.org/movie/1226863?language=ja-JP",
-        "tmdbId": 1226863
+        "cover": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+        "link": "https://www.themoviedb.org/movie/1612018?language=ja-JP",
+        "tmdbId": 1612018
       }
     ],
     "fun": [
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
       {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
@@ -774,13 +763,24 @@
         "tmdbId": 1315772
       },
       {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      },
+      {
         "title": "モアナと伝説の海",
         "director": "Thomas Kail",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
       },
@@ -807,15 +807,15 @@
         "tmdbId": 980431
       },
       {
-        "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-        "director": "外崎春雄",
-        "year": "2025",
-        "why": "鬼となった妹・禰󠄀豆子を人間に戻すため鬼狩りの組織《鬼殺隊》に入った竈門炭治郎。入隊後、仲間である我妻善逸、嘴平伊之助と共に様々な鬼と戦い、成長しながら友情や絆を深めていく。そし…",
-        "time": "long",
+        "title": "The Invite",
+        "director": "オリヴィア・ワイルド",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/qjyWDOYokheTTWLMzwJAuvSJeYg.jpg",
-        "link": "https://www.themoviedb.org/movie/1311031?language=ja-JP",
-        "tmdbId": 1311031
+        "cover": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "link": "https://www.themoviedb.org/movie/950028?language=ja-JP",
+        "tmdbId": 950028
       }
     ]
   }
