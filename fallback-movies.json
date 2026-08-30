@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-30",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "Hotel Desire",
@@ -21,9 +21,31 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
+      },
+      {
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
       },
       {
         "title": "ショーシャンクの空に",
@@ -46,41 +68,19 @@
         "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
         "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
         "tmdbId": 441168
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "報道記者として活躍していたアンディが、かつて働いていたファッション誌「ランウェイ」に特集エディターとして復帰する。そこで彼女は、「悪魔のような」カリスマ編集長ミランダと再会を果たす…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iRvrraid1RfU5jakBsasR7m9pMB.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
       }
     ],
     "sadness": [
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "Hotel Desire",
@@ -89,9 +89,31 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
+      },
+      {
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
       },
       {
         "title": "ショーシャンクの空に",
@@ -114,28 +136,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
         "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
         "tmdbId": 441168
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "報道記者として活躍していたアンディが、かつて働いていたファッション誌「ランウェイ」に特集エディターとして復帰する。そこで彼女は、「悪魔のような」カリスマ編集長ミランダと再会を果たす…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iRvrraid1RfU5jakBsasR7m9pMB.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
       }
     ],
     "tired": [
@@ -149,6 +149,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
         "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
         "tmdbId": 1084244
+      },
+      {
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
+        "year": "2026",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "ミニオンズ＆モンスターズ",
@@ -173,50 +184,39 @@
         "tmdbId": 1108427
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
-      {
         "title": "Hotel Desire",
         "director": "Sergej Moya",
         "year": "2011",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
       }
     ],
     "loneliness": [
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "Hotel Desire",
@@ -225,9 +225,31 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
+      },
+      {
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
       },
       {
         "title": "ショーシャンクの空に",
@@ -250,28 +272,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
         "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
         "tmdbId": 441168
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "報道記者として活躍していたアンディが、かつて働いていたファッション誌「ランウェイ」に特集エディターとして復帰する。そこで彼女は、「悪魔のような」カリスマ編集長ミランダと再会を果たす…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iRvrraid1RfU5jakBsasR7m9pMB.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
-      },
-      {
-        "title": "Michael／マイケル",
-        "director": "アントワーン・フークア",
-        "year": "2026",
-        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
-        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
-        "tmdbId": 936075
       }
     ],
     "anger": [
@@ -282,9 +282,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
         "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
         "tmdbId": 1288445
+      },
+      {
+        "title": "La captura",
+        "director": "Chava Cartas",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+        "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
+        "tmdbId": 1621552
       },
       {
         "title": "オブセッション 災愛",
@@ -298,15 +309,15 @@
         "tmdbId": 1339713
       },
       {
-        "title": "ザ・ラストハウス",
-        "director": "ルイ・レテリエ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "突然開かなくなった扉や窓、次第に乏しくなる食糧、そして自分たちを閉じ込め続ける得体の知れない何か。家から出られなくなってしまった一家は、力を合わせて生き延びる方法を模索するが...…",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "link": "https://www.themoviedb.org/movie/1284041?language=ja-JP",
-        "tmdbId": 1284041
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "ディスクロージャー・デイ",
@@ -320,39 +331,28 @@
         "tmdbId": 1275779
       },
       {
-        "title": "オークストリートの異変",
-        "director": "デヴィッド・ロバート・ミッチェル",
-        "year": "2026",
-        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
-        "tmdbId": 1101383
-      },
-      {
-        "title": "Soulm8te",
-        "director": "Kate Dolan",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "link": "https://www.themoviedb.org/movie/1307118?language=ja-JP",
-        "tmdbId": 1307118
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
       }
     ],
     "stagnation": [
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "Hotel Desire",
@@ -361,9 +361,31 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
+      },
+      {
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
       },
       {
         "title": "Твоё сердце будет разбито",
@@ -386,28 +408,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
-      },
-      {
-        "title": "From Straight A's to XXX",
-        "director": "Vanessa Parise",
-        "year": "2017",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
-        "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
-        "tmdbId": 441168
-      },
-      {
-        "title": "Leviticus",
-        "director": "Adrian Chiarella",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-        "link": "https://www.themoviedb.org/movie/1564614?language=ja-JP",
-        "tmdbId": 1564614
       }
     ],
     "adventure": [
@@ -426,7 +426,7 @@
         "title": "オデュッセイア",
         "director": "クリストファー・ノーラン",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "トロイア戦争の終結後、イタケーの伝説的な王オデュッセウスは、故郷への長く危険に満ちた帰還の旅に出る。その航海の途上、彼は神々の気まぐれや神話の怪物たち、そして自身の知略と人間性の双…",
         "time": "long",
         "outcome": null,
         "cover": "https://image.tmdb.org/t/p/w200/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
@@ -440,9 +440,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
         "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
         "tmdbId": 1288445
+      },
+      {
+        "title": "La captura",
+        "director": "Chava Cartas",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+        "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
+        "tmdbId": 1621552
       },
       {
         "title": "トイ・ストーリー５",
@@ -456,26 +467,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "スパイダーマン：ノー・ウェイ・ホーム",
-        "director": "ジョン・ワッツ",
-        "year": "2021",
-        "why": "倒した敵の暴露により、世間から悪評を受けるスパイダーマン。自分の正体が知られていない世界に戻りたいと思うようになった彼は、友人のドクター・ストレンジに助けを求める。やがて魔法の力で…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/j2vwjzuofol93OcSn8xAHJiTEoz.jpg",
-        "link": "https://www.themoviedb.org/movie/634649?language=ja-JP",
-        "tmdbId": 634649
-      },
-      {
-        "title": "군체",
-        "director": "ヨン・サンホ",
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
-        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
-        "tmdbId": 1375646
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
       }
     ],
     "calm": [
@@ -491,6 +491,17 @@
         "tmdbId": 1084244
       },
       {
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
+        "year": "2026",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
+      },
+      {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
         "year": "2026",
@@ -513,50 +524,39 @@
         "tmdbId": 1108427
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
-      {
         "title": "Hotel Desire",
         "director": "Sergej Moya",
         "year": "2011",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
       }
     ],
     "confusion": [
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "Hotel Desire",
@@ -565,20 +565,9 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
-      },
-      {
-        "title": "オークストリートの異変",
-        "director": "デヴィッド・ロバート・ミッチェル",
-        "year": "2026",
-        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
-        "tmdbId": 1101383
       },
       {
         "title": "バックルームズ",
@@ -592,26 +581,37 @@
         "tmdbId": 1083381
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
-      },
-      {
-        "title": "From Straight A's to XXX",
-        "director": "Vanessa Parise",
-        "year": "2017",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
-        "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
-        "tmdbId": 441168
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
+        "year": "2026",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
       }
     ],
     "gratitude": [
@@ -627,6 +627,17 @@
         "tmdbId": 1084244
       },
       {
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
+        "year": "2026",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
+      },
+      {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
         "year": "2026",
@@ -649,37 +660,26 @@
         "tmdbId": 1108427
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
-      {
         "title": "Hotel Desire",
         "director": "Sergej Moya",
         "year": "2011",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
         "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
         "tmdbId": 82023
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
       }
     ],
     "joy": [
@@ -785,6 +785,17 @@
         "tmdbId": 1108427
       },
       {
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
+      },
+      {
         "title": "最終絶叫計画 令和！",
         "director": "Michael Tiddes",
         "year": "2026",
@@ -794,17 +805,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/1FuR7UUvf7YBIwD7m2hsZ9VjlGg.jpg",
         "link": "https://www.themoviedb.org/movie/1273221?language=ja-JP",
         "tmdbId": 1273221
-      },
-      {
-        "title": "Avatar Aang: The Last Airbender",
-        "director": "Lauren Montgomery",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "link": "https://www.themoviedb.org/movie/980431?language=ja-JP",
-        "tmdbId": 980431
       },
       {
         "title": "Jackass: Best and Last",
