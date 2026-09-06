@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-09-06",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
       {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
+      {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
         "year": "2026",
@@ -13,17 +24,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
       },
       {
         "title": "Batman: Knightfall Part 1: Knightfall",
@@ -37,17 +37,6 @@
         "tmdbId": 1560520
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
-      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -59,19 +48,41 @@
         "tmdbId": 278
       },
       {
-        "title": "From Straight A's to XXX",
-        "director": "Vanessa Parise",
-        "year": "2017",
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
-        "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
-        "tmdbId": 441168
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
+        "title": "ラスト・サバイバー",
+        "director": "リドリー・スコット",
+        "year": "2026",
+        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
+        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
+        "tmdbId": 1384216
       }
     ],
     "sadness": [
       {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
+      {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
         "year": "2026",
@@ -81,17 +92,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
       },
       {
         "title": "Batman: Knightfall Part 1: Knightfall",
@@ -105,17 +105,6 @@
         "tmdbId": 1560520
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
-      },
-      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -127,18 +116,51 @@
         "tmdbId": 278
       },
       {
-        "title": "From Straight A's to XXX",
-        "director": "Vanessa Parise",
-        "year": "2017",
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
-        "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
-        "tmdbId": 441168
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
+        "title": "ラスト・サバイバー",
+        "director": "リドリー・スコット",
+        "year": "2026",
+        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
+        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
+        "tmdbId": 1384216
       }
     ],
     "tired": [
+      {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -182,31 +204,20 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
-      },
-      {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
       }
     ],
     "loneliness": [
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
       {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
@@ -219,17 +230,6 @@
         "tmdbId": 860508
       },
       {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
-      },
-      {
         "title": "Batman: Knightfall Part 1: Knightfall",
         "director": "Jeff Wamester",
         "year": "2026",
@@ -239,17 +239,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
         "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
         "tmdbId": 1560520
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
       },
       {
         "title": "ショーシャンクの空に",
@@ -263,15 +252,26 @@
         "tmdbId": 278
       },
       {
-        "title": "From Straight A's to XXX",
-        "director": "Vanessa Parise",
-        "year": "2017",
+        "title": "The Death of Robin Hood",
+        "director": "マイケル・サルノスキ",
+        "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
-        "link": "https://www.themoviedb.org/movie/441168?language=ja-JP",
-        "tmdbId": 441168
+        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
+        "tmdbId": 1284465
+      },
+      {
+        "title": "ラスト・サバイバー",
+        "director": "リドリー・スコット",
+        "year": "2026",
+        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
+        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
+        "tmdbId": 1384216
       }
     ],
     "anger": [
@@ -282,20 +282,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
         "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
         "tmdbId": 1288445
       },
       {
-        "title": "La captura",
-        "director": "Chava Cartas",
+        "title": "ザ・ランナー",
+        "director": "ケヴィン・マクドナルド",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "ロンドンで活躍する優秀な弁護士マイア・マーテンの人生は、朝のランニング中に受けた一本の電話によって一変する。その電話は息子を誘拐した犯人からのものだった。息子を取り戻すために彼女は…",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
-        "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
-        "tmdbId": 1621552
+        "cover": "https://image.tmdb.org/t/p/w200/mJoXKYrKnL2Ibtf90rxjzuV4AW5.jpg",
+        "link": "https://www.themoviedb.org/movie/1386315?language=ja-JP",
+        "tmdbId": 1386315
       },
       {
         "title": "オブセッション 災愛",
@@ -309,6 +309,17 @@
         "tmdbId": 1339713
       },
       {
+        "title": "La captura",
+        "director": "Chava Cartas",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+        "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
+        "tmdbId": 1621552
+      },
+      {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
         "year": "2026",
@@ -318,17 +329,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "ディスクロージャー・デイ",
-        "director": "スティーヴン・スピルバーグ",
-        "year": "2026",
-        "why": "気象キャスターのマーガレットとサイバーセキュリティのエキスパート、ダニエル。接点のないはずの二人が衝撃的な機密情報を知ることとなった。やがて、その秘密を明らかにする使命を負った彼ら…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/txoWOh844v841hItSPG17S1bXjU.jpg",
-        "link": "https://www.themoviedb.org/movie/1275779?language=ja-JP",
-        "tmdbId": 1275779
       },
       {
         "title": "Batman: Knightfall Part 1: Knightfall",
@@ -344,6 +344,17 @@
     ],
     "stagnation": [
       {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
+      {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
         "year": "2026",
@@ -353,17 +364,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
       },
       {
         "title": "Batman: Knightfall Part 1: Knightfall",
@@ -377,6 +377,17 @@
         "tmdbId": 1560520
       },
       {
+        "title": "ショーシャンクの空に",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
+        "tmdbId": 278
+      },
+      {
         "title": "The Death of Robin Hood",
         "director": "マイケル・サルノスキ",
         "year": "2026",
@@ -388,26 +399,15 @@
         "tmdbId": 1284465
       },
       {
-        "title": "Твоё сердце будет разбито",
-        "director": "Михаил Вайнберг",
+        "title": "ラスト・サバイバー",
+        "director": "リドリー・スコット",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-        "link": "https://www.themoviedb.org/movie/1523145?language=ja-JP",
-        "tmdbId": 1523145
-      },
-      {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
+        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
+        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
+        "tmdbId": 1384216
       }
     ],
     "adventure": [
@@ -434,51 +434,73 @@
         "tmdbId": 1368337
       },
       {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
         "title": "Mutiny",
         "director": "ジャン＝フランソワ・リシェ",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
         "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
         "tmdbId": 1288445
       },
       {
-        "title": "La captura",
-        "director": "Chava Cartas",
+        "title": "ザ・ランナー",
+        "director": "ケヴィン・マクドナルド",
+        "year": "2026",
+        "why": "ロンドンで活躍する優秀な弁護士マイア・マーテンの人生は、朝のランニング中に受けた一本の電話によって一変する。その電話は息子を誘拐した犯人からのものだった。息子を取り戻すために彼女は…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/mJoXKYrKnL2Ibtf90rxjzuV4AW5.jpg",
+        "link": "https://www.themoviedb.org/movie/1386315?language=ja-JP",
+        "tmdbId": 1386315
+      },
+      {
+        "title": "コロニー",
+        "director": "ヨン・サンホ",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
-        "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
-        "tmdbId": 1621552
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
+        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
+        "tmdbId": 1375646
       }
     ],
     "calm": [
+      {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -522,31 +544,20 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
-      },
-      {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
       }
     ],
     "confusion": [
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
       {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
@@ -559,15 +570,15 @@
         "tmdbId": 860508
       },
       {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "director": "Jeff Wamester",
+        "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
+        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
+        "tmdbId": 1560520
       },
       {
         "title": "バックルームズ",
@@ -581,15 +592,15 @@
         "tmdbId": 1083381
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "title": "ショーシャンクの空に",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
+        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
+        "tmdbId": 278
       },
       {
         "title": "The Death of Robin Hood",
@@ -601,20 +612,31 @@
         "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "オークストリートの異変",
-        "director": "デヴィッド・ロバート・ミッチェル",
-        "year": "2026",
-        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
-        "tmdbId": 1101383
       }
     ],
     "gratitude": [
+      {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -658,32 +680,32 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "Hotel Desire",
-        "director": "Sergej Moya",
-        "year": "2011",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg",
-        "link": "https://www.themoviedb.org/movie/82023?language=ja-JP",
-        "tmdbId": 82023
-      },
-      {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
       }
     ],
     "joy": [
       {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
+        "title": "メーデー",
+        "director": "Jonathan Goldstein",
+        "year": "2026",
+        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
+        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
+        "tmdbId": 1137844
+      },
+      {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
         "year": "2026",
@@ -726,31 +748,31 @@
         "cover": "https://image.tmdb.org/t/p/w200/1FuR7UUvf7YBIwD7m2hsZ9VjlGg.jpg",
         "link": "https://www.themoviedb.org/movie/1273221?language=ja-JP",
         "tmdbId": 1273221
-      },
-      {
-        "title": "Jackass: Best and Last",
-        "director": "Jeff Tremaine",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "link": "https://www.themoviedb.org/movie/1612018?language=ja-JP",
-        "tmdbId": 1612018
-      },
-      {
-        "title": "プラダを着た悪魔２",
-        "director": "デヴィッド・フランケル",
-        "year": "2026",
-        "why": "報道記者として活躍していたアンディが、かつて働いていたファッション誌「ランウェイ」に特集エディターとして復帰する。そこで彼女は、「悪魔のような」カリスマ編集長ミランダと再会を果たす…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/iRvrraid1RfU5jakBsasR7m9pMB.jpg",
-        "link": "https://www.themoviedb.org/movie/1314481?language=ja-JP",
-        "tmdbId": 1314481
       }
     ],
     "fun": [
+      {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
+        "title": "メーデー",
+        "director": "Jonathan Goldstein",
+        "year": "2026",
+        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
+        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
+        "tmdbId": 1137844
+      },
       {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
@@ -794,28 +816,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
         "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
         "tmdbId": 1560520
-      },
-      {
-        "title": "最終絶叫計画 令和！",
-        "director": "Michael Tiddes",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/1FuR7UUvf7YBIwD7m2hsZ9VjlGg.jpg",
-        "link": "https://www.themoviedb.org/movie/1273221?language=ja-JP",
-        "tmdbId": 1273221
-      },
-      {
-        "title": "Jackass: Best and Last",
-        "director": "Jeff Tremaine",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "link": "https://www.themoviedb.org/movie/1612018?language=ja-JP",
-        "tmdbId": 1612018
       }
     ]
   }
