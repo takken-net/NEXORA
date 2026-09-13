@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-13",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
@@ -26,17 +26,6 @@
         "tmdbId": 860508
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
-      },
-      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -46,6 +35,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
+      },
+      {
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "The Death of Robin Hood",
@@ -59,15 +59,15 @@
         "tmdbId": 1284465
       },
       {
-        "title": "ラスト・サバイバー",
-        "director": "リドリー・スコット",
-        "year": "2026",
-        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
-        "time": "medium",
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
-        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
-        "tmdbId": 1384216
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
       }
     ],
     "sadness": [
@@ -94,17 +94,6 @@
         "tmdbId": 860508
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
-      },
-      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -114,6 +103,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
+      },
+      {
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "The Death of Robin Hood",
@@ -127,15 +127,15 @@
         "tmdbId": 1284465
       },
       {
-        "title": "ラスト・サバイバー",
-        "director": "リドリー・スコット",
-        "year": "2026",
-        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
-        "time": "medium",
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
-        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
-        "tmdbId": 1384216
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
       }
     ],
     "tired": [
@@ -146,20 +146,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
       {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
         "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
       },
       {
         "title": "トイ・ストーリー５",
@@ -173,15 +173,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
         "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
       },
       {
         "title": "ミニオンズ＆モンスターズ",
@@ -195,15 +195,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       }
     ],
     "loneliness": [
@@ -230,17 +230,6 @@
         "tmdbId": 860508
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
-      },
-      {
         "title": "ショーシャンクの空に",
         "director": "Frank Darabont",
         "year": "1994",
@@ -250,6 +239,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
         "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
         "tmdbId": 278
+      },
+      {
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "The Death of Robin Hood",
@@ -263,15 +263,15 @@
         "tmdbId": 1284465
       },
       {
-        "title": "ラスト・サバイバー",
-        "director": "リドリー・スコット",
-        "year": "2026",
-        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
-        "time": "medium",
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
-        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
-        "tmdbId": 1384216
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
       }
     ],
     "anger": [
@@ -309,6 +309,17 @@
         "tmdbId": 1339713
       },
       {
+        "title": "Rage of Stars",
+        "director": "Łukasz Róg",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+        "link": "https://www.themoviedb.org/movie/1323244?language=ja-JP",
+        "tmdbId": 1323244
+      },
+      {
         "title": "La captura",
         "director": "Chava Cartas",
         "year": "2026",
@@ -320,26 +331,15 @@
         "tmdbId": 1621552
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
         "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
-      },
-      {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
       }
     ],
     "stagnation": [
@@ -366,15 +366,15 @@
         "tmdbId": 860508
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
+        "title": "One Night Only",
+        "director": "ウィル・グラック",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
+        "cover": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+        "link": "https://www.themoviedb.org/movie/1433367?language=ja-JP",
+        "tmdbId": 1433367
       },
       {
         "title": "ショーシャンクの空に",
@@ -388,6 +388,17 @@
         "tmdbId": 278
       },
       {
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
+      },
+      {
         "title": "The Death of Robin Hood",
         "director": "マイケル・サルノスキ",
         "year": "2026",
@@ -397,17 +408,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
         "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
         "tmdbId": 1284465
-      },
-      {
-        "title": "ラスト・サバイバー",
-        "director": "リドリー・スコット",
-        "year": "2026",
-        "why": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
-        "link": "https://www.themoviedb.org/movie/1384216?language=ja-JP",
-        "tmdbId": 1384216
       }
     ],
     "adventure": [
@@ -423,6 +423,17 @@
         "tmdbId": 969681
       },
       {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      },
+      {
         "title": "オデュッセイア",
         "director": "クリストファー・ノーラン",
         "year": "2026",
@@ -434,15 +445,15 @@
         "tmdbId": 1368337
       },
       {
-        "title": "Coyote vs. Acme",
-        "director": "デイヴ・グリーン",
+        "title": "コロニー",
+        "director": "ヨン・サンホ",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
-        "tmdbId": 1204680
+        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
+        "tmdbId": 1375646
       },
       {
         "title": "Mutiny",
@@ -456,26 +467,15 @@
         "tmdbId": 1288445
       },
       {
-        "title": "ザ・ランナー",
-        "director": "ケヴィン・マクドナルド",
-        "year": "2026",
-        "why": "ロンドンで活躍する優秀な弁護士マイア・マーテンの人生は、朝のランニング中に受けた一本の電話によって一変する。その電話は息子を誘拐した犯人からのものだった。息子を取り戻すために彼女は…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/mJoXKYrKnL2Ibtf90rxjzuV4AW5.jpg",
-        "link": "https://www.themoviedb.org/movie/1386315?language=ja-JP",
-        "tmdbId": 1386315
-      },
-      {
-        "title": "コロニー",
-        "director": "ヨン・サンホ",
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
-        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
-        "tmdbId": 1375646
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
       }
     ],
     "calm": [
@@ -486,20 +486,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
       {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
         "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
       },
       {
         "title": "トイ・ストーリー５",
@@ -513,15 +513,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
         "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
       },
       {
         "title": "ミニオンズ＆モンスターズ",
@@ -535,15 +535,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
+        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       }
     ],
     "confusion": [
@@ -559,6 +559,17 @@
         "tmdbId": 1516698
       },
       {
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
+        "year": "2026",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
+      },
+      {
         "title": "ウィスパーマン",
         "director": "James Ashcroft",
         "year": "2026",
@@ -568,17 +579,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
       },
       {
         "title": "バックルームズ",
@@ -603,15 +603,15 @@
         "tmdbId": 278
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       }
     ],
     "gratitude": [
@@ -622,9 +622,31 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
+      },
+      {
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       },
       {
         "title": "ラスト・サンライズ",
@@ -638,15 +660,15 @@
         "tmdbId": 1516698
       },
       {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
         "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
       },
       {
         "title": "ウィスパーマン",
@@ -658,28 +680,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
         "tmdbId": 860508
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
       }
     ],
     "joy": [
@@ -690,9 +690,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
+      },
+      {
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
       },
       {
         "title": "メーデー",
@@ -728,26 +739,15 @@
         "tmdbId": 1315772
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "One Night Only",
+        "director": "ウィル・グラック",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
-      },
-      {
-        "title": "最終絶叫計画 令和！",
-        "director": "Michael Tiddes",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/1FuR7UUvf7YBIwD7m2hsZ9VjlGg.jpg",
-        "link": "https://www.themoviedb.org/movie/1273221?language=ja-JP",
-        "tmdbId": 1273221
+        "cover": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+        "link": "https://www.themoviedb.org/movie/1433367?language=ja-JP",
+        "tmdbId": 1433367
       }
     ],
     "fun": [
@@ -758,9 +758,20 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
+      },
+      {
+        "title": "モアナと伝説の海",
+        "director": "Thomas Kail",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
+        "tmdbId": 1108427
       },
       {
         "title": "メーデー",
@@ -794,17 +805,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
         "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
         "tmdbId": 1315772
-      },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
       },
       {
         "title": "Batman: Knightfall Part 1: Knightfall",
