@@ -3,7 +3,7 @@
   "short_name": "映画に映す",
   "start_url": ".",
   "scope": ".",
-  "display": "browser",
+  "display": "standalone",
   "background_color": "#f4f1f5",
   "theme_color": "#5c4a9c",
   "icons": [

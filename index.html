@@ -9,9 +9,11 @@
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#5c4a9c">
-<!-- ホーム画面に追加した際、常に通常のブラウザで開くようにする(フルスクリーンのアプリ風表示にはしない) -->
-<meta name="mobile-web-app-capable" content="no">
-<meta name="apple-mobile-web-app-capable" content="no">
+<!-- ホーム画面に追加した際、インストール型アプリ(フルスクリーン)として開く -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="映画に映す">
 <style>
   :root{
     --bg:#f4f1f5;
