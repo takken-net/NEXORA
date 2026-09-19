@@ -235,9 +235,30 @@
     text-align:center;
     line-height:1.7;
   }
+  .back-btn{
+    display:none;
+    position:fixed;
+    top:14px;
+    left:14px;
+    z-index:10;
+    align-items:center;
+    gap:4px;
+    background:var(--card);
+    color:var(--accent);
+    border:1px solid var(--line);
+    padding:8px 14px 8px 12px;
+    border-radius:999px;
+    font-size:13px;
+    font-weight:600;
+    font-family:inherit;
+    cursor:pointer;
+    box-shadow:0 2px 8px rgba(0,0,0,0.08);
+  }
+  .back-btn:hover{border-color:var(--accent);}
 </style>
 </head>
 <body>
+<button class="back-btn" id="backBtn" onclick="goBack()">&larr; 選び直す</button>
 <div class="wrap">
   <h1>今の気持ちを、映画に映す<span class="brand">by NEXORA</span></h1>
   <p class="lead">4つの質問に答えて、新しい世界へ踏み出そう。</p>
@@ -891,6 +912,7 @@ async function showCombinedResults(){
 
   document.getElementById('waitingHint').style.display = 'none';
   document.getElementById('result').style.display = 'block';
+  document.getElementById('backBtn').style.display = 'flex';
   document.getElementById('movies').innerHTML = `<p class="loading-note">映画を探しています…</p>`;
   document.getElementById('result').scrollIntoView({ behavior:'smooth', block:'nearest' });
 
@@ -911,6 +933,23 @@ async function showCombinedResults(){
   }
 
   renderMovies(movies, usedFallback, sourceLabel);
+}
+
+// 結果画面から質問の選び直し画面へ戻る(選択状態はリセットする)
+function goBack(){
+  selectedCategory = null;
+  selectedColorCategory = null;
+  selectedOutcome = null;
+  selectedTime = null;
+
+  document.querySelectorAll('.cat-chip').forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.color-swatch').forEach(c => c.classList.remove('active'));
+
+  document.getElementById('result').style.display = 'none';
+  document.getElementById('backBtn').style.display = 'none';
+  document.getElementById('waitingHint').style.display = 'block';
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 renderCatChips();
