@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-20",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
@@ -15,15 +15,15 @@
         "tmdbId": 1516698
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "ショーシャンクの空に",
@@ -37,26 +37,15 @@
         "tmdbId": 278
       },
       {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "インターステラー",
@@ -68,6 +57,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
+      },
+      {
+        "title": "ゴッドファーザー",
+        "director": "フランシス・フォード・コッポラ",
+        "year": "1972",
+        "why": "シシリーからアメリカに移住し、一代で財を成したドン・コルレオーネ。三男のマイケルはひとり堅気な人生を送ろうとしていたが、敵対するファミリーにドンが襲われ重傷を負った時、彼は報復を決…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/hJ1oIGxEoskl4YfNpQ4AFUO5uub.jpg",
+        "link": "https://www.themoviedb.org/movie/238?language=ja-JP",
+        "tmdbId": 238
       }
     ],
     "sadness": [
@@ -83,15 +83,15 @@
         "tmdbId": 1516698
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "ショーシャンクの空に",
@@ -105,26 +105,15 @@
         "tmdbId": 278
       },
       {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "インターステラー",
@@ -136,6 +125,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
+      },
+      {
+        "title": "ゴッドファーザー",
+        "director": "フランシス・フォード・コッポラ",
+        "year": "1972",
+        "why": "シシリーからアメリカに移住し、一代で財を成したドン・コルレオーネ。三男のマイケルはひとり堅気な人生を送ろうとしていたが、敵対するファミリーにドンが襲われ重傷を負った時、彼は報復を決…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/hJ1oIGxEoskl4YfNpQ4AFUO5uub.jpg",
+        "link": "https://www.themoviedb.org/movie/238?language=ja-JP",
+        "tmdbId": 238
       }
     ],
     "tired": [
@@ -146,7 +146,7 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -173,17 +173,6 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
-        "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
-      },
-      {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
         "year": "2026",
@@ -195,15 +184,26 @@
         "tmdbId": 1315772
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
         "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
+      },
+      {
+        "title": "パウ・パトロール ザ・ダイノ・ムービー",
+        "director": "Cal Brunker",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
+        "tmdbId": 1185806
       }
     ],
     "loneliness": [
@@ -219,15 +219,15 @@
         "tmdbId": 1516698
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
         "title": "ショーシャンクの空に",
@@ -241,26 +241,15 @@
         "tmdbId": 278
       },
       {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
       },
       {
         "title": "インターステラー",
@@ -272,9 +261,31 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
+      },
+      {
+        "title": "ゴッドファーザー",
+        "director": "フランシス・フォード・コッポラ",
+        "year": "1972",
+        "why": "シシリーからアメリカに移住し、一代で財を成したドン・コルレオーネ。三男のマイケルはひとり堅気な人生を送ろうとしていたが、敵対するファミリーにドンが襲われ重傷を負った時、彼は報復を決…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/hJ1oIGxEoskl4YfNpQ4AFUO5uub.jpg",
+        "link": "https://www.themoviedb.org/movie/238?language=ja-JP",
+        "tmdbId": 238
       }
     ],
     "anger": [
+      {
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
+        "year": "2026",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
+      },
       {
         "title": "Mutiny",
         "director": "ジャン＝フランソワ・リシェ",
@@ -329,17 +340,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
         "link": "https://www.themoviedb.org/movie/1621552?language=ja-JP",
         "tmdbId": 1621552
-      },
-      {
-        "title": "オークストリートの異変",
-        "director": "デヴィッド・ロバート・ミッチェル",
-        "year": "2026",
-        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
-        "tmdbId": 1101383
       }
     ],
     "stagnation": [
@@ -355,26 +355,26 @@
         "tmdbId": 1516698
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
+        "title": "シャドウズ・エッジ",
+        "director": "杨子",
+        "year": "2025",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
+        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
+        "tmdbId": 1419406
       },
       {
-        "title": "One Night Only",
-        "director": "ウィル・グラック",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "プラクティカル・マジック",
+        "director": "グリフィン・ダン",
+        "year": "1998",
+        "why": "小さな港町で暮らす美人姉妹。慎重かつ堅実な姉のサリーと自由奔放な妹のジリアンという対称的な性格の2人だが、実は共通の特殊能力を持っていた。サンドラ・ブロック、ニコール・キッドマンの…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-        "link": "https://www.themoviedb.org/movie/1433367?language=ja-JP",
-        "tmdbId": 1433367
+        "cover": "https://image.tmdb.org/t/p/w200/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+        "link": "https://www.themoviedb.org/movie/6435?language=ja-JP",
+        "tmdbId": 6435
       },
       {
         "title": "ショーシャンクの空に",
@@ -388,26 +388,26 @@
         "tmdbId": 278
       },
       {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
-      },
-      {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
+        "title": "ウィスパーマン",
+        "director": "James Ashcroft",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
+        "tmdbId": 860508
+      },
+      {
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
       }
     ],
     "adventure": [
@@ -423,13 +423,24 @@
         "tmdbId": 969681
       },
       {
+        "title": "バイオハザード",
+        "director": "ザック・クレッガー",
+        "year": "2026",
+        "why": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/wHXSnGH3zQtvpxPwaBXMoS9o8Vl.jpg",
+        "link": "https://www.themoviedb.org/movie/1423191?language=ja-JP",
+        "tmdbId": 1423191
+      },
+      {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -445,13 +456,13 @@
         "tmdbId": 1368337
       },
       {
-        "title": "コロニー",
+        "title": "コロニー／群体",
         "director": "ヨン・サンホ",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "ソウル都心の超高層ビル。突如発生した未知のバイオテロにより封鎖され逃げ場なきビルに残されたバイオテクノロジー教授であるクォン・セジョン（チョン・ジヒョン）らは、粘る糸を引きながら猛…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/zrYz4XEfT4Rx6Div0wPFfQwyFqK.jpg",
         "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
         "tmdbId": 1375646
       },
@@ -465,17 +476,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
         "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
         "tmdbId": 1288445
-      },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
       }
     ],
     "calm": [
@@ -486,7 +486,7 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -513,17 +513,6 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
-        "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
-      },
-      {
         "title": "ミニオンズ＆モンスターズ",
         "director": "Pierre Coffin",
         "year": "2026",
@@ -535,19 +524,6 @@
         "tmdbId": 1315772
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
-      }
-    ],
-    "confusion": [
-      {
         "title": "ラスト・サンライズ",
         "director": "Carlson Young",
         "year": "2026",
@@ -558,6 +534,19 @@
         "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
         "tmdbId": 1516698
       },
+      {
+        "title": "パウ・パトロール ザ・ダイノ・ムービー",
+        "director": "Cal Brunker",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
+        "tmdbId": 1185806
+      }
+    ],
+    "confusion": [
       {
         "title": "オークストリートの異変",
         "director": "デヴィッド・ロバート・ミッチェル",
@@ -570,15 +559,26 @@
         "tmdbId": 1101383
       },
       {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
+        "title": "Pinocchio: Unstrung",
+        "director": "Rhys Frake-Waterfield",
         "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+        "link": "https://www.themoviedb.org/movie/1232569?language=ja-JP",
+        "tmdbId": 1232569
+      },
+      {
+        "title": "ラスト・サンライズ",
+        "director": "Carlson Young",
+        "year": "2026",
+        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
+        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
+        "tmdbId": 1516698
       },
       {
         "title": "バックルームズ",
@@ -592,17 +592,6 @@
         "tmdbId": 1083381
       },
       {
-        "title": "ショーシャンクの空に",
-        "director": "Frank Darabont",
-        "year": "1994",
-        "why": "妻とその愛人を射殺したかどでショーシャンク刑務所送りとなった銀行家アンディ。初めは戸惑っていたが、やがて彼は自ら持つ不思議な魅力ですさんだ受刑者達の心を掴んでゆく。そして20年の歳…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
-        "link": "https://www.themoviedb.org/movie/278?language=ja-JP",
-        "tmdbId": 278
-      },
-      {
         "title": "シャドウズ・エッジ",
         "director": "杨子",
         "year": "2025",
@@ -612,6 +601,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
         "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
         "tmdbId": 1419406
+      },
+      {
+        "title": "ズートピア2",
+        "director": "ジャレド・ブッシュ",
+        "year": "2025",
+        "why": "警察学校を無事卒業し警察官となったニックと、ウサギ初の警官として以前にもまして熱心に任務に挑むジュディが再びバディを組むことに！ある日、ズートピアに突如現れたヘビ・ゲイリーをきっか…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sp8eWmg3HwNKdqdgGhoE2XACfO6.jpg",
+        "link": "https://www.themoviedb.org/movie/1084242?language=ja-JP",
+        "tmdbId": 1084242
       }
     ],
     "gratitude": [
@@ -622,7 +622,7 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -647,6 +647,17 @@
         "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
         "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
         "tmdbId": 1084244
+      },
+      {
+        "title": "ミニオンズ＆モンスターズ",
+        "director": "Pierre Coffin",
+        "year": "2026",
+        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
+        "tmdbId": 1315772
       },
       {
         "title": "ラスト・サンライズ",
@@ -660,26 +671,15 @@
         "tmdbId": 1516698
       },
       {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
+        "title": "パウ・パトロール ザ・ダイノ・ムービー",
+        "director": "Cal Brunker",
         "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
-        "title": "ウィスパーマン",
-        "director": "James Ashcroft",
-        "year": "2026",
-        "why": "妻を亡くしたあと、幼い息子が姿を消すという悲運に見舞われた男。疎遠になっていた元刑事の父親に助けを求めるが、事件はかつて父親が獄中へと送ったある連続殺人犯とつながっていた...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "link": "https://www.themoviedb.org/movie/860508?language=ja-JP",
-        "tmdbId": 860508
+        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
+        "tmdbId": 1185806
       }
     ],
     "joy": [
@@ -690,7 +690,7 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -704,17 +704,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "メーデー",
-        "director": "Jonathan Goldstein",
-        "year": "2026",
-        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
-        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
-        "tmdbId": 1137844
       },
       {
         "title": "トイ・ストーリー５",
@@ -739,15 +728,26 @@
         "tmdbId": 1315772
       },
       {
-        "title": "One Night Only",
-        "director": "ウィル・グラック",
+        "title": "メーデー",
+        "director": "Jonathan Goldstein",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-        "link": "https://www.themoviedb.org/movie/1433367?language=ja-JP",
-        "tmdbId": 1433367
+        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
+        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
+        "tmdbId": 1137844
+      },
+      {
+        "title": "パウ・パトロール ザ・ダイノ・ムービー",
+        "director": "Cal Brunker",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
+        "tmdbId": 1185806
       }
     ],
     "fun": [
@@ -758,7 +758,7 @@
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
       },
@@ -772,17 +772,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "メーデー",
-        "director": "Jonathan Goldstein",
-        "year": "2026",
-        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
-        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
-        "tmdbId": 1137844
       },
       {
         "title": "トイ・ストーリー５",
@@ -807,15 +796,26 @@
         "tmdbId": 1315772
       },
       {
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "director": "Jeff Wamester",
+        "title": "メーデー",
+        "director": "Jonathan Goldstein",
+        "year": "2026",
+        "why": "冷戦時代、アメリカ海軍パイロットが極秘任務中に、敵地で孤立する。生き延びるため、仕方なく、一癖ある元ＫＧＢエージェントと手を組むのだが...",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/u1c6c29GEE7QpGCRgilAvXL9RGf.jpg",
+        "link": "https://www.themoviedb.org/movie/1137844?language=ja-JP",
+        "tmdbId": 1137844
+      },
+      {
+        "title": "パウ・パトロール ザ・ダイノ・ムービー",
+        "director": "Cal Brunker",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-        "link": "https://www.themoviedb.org/movie/1560520?language=ja-JP",
-        "tmdbId": 1560520
+        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
+        "tmdbId": 1185806
       }
     ]
   }
