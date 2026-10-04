@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-10-04",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
       {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
+      {
         "title": "ユナボマー",
         "director": "Janus Metz",
         "year": "2026",
@@ -13,17 +35,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
         "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
         "tmdbId": 1492640
-      },
-      {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
       },
       {
         "title": "インターステラー",
@@ -37,15 +48,15 @@
         "tmdbId": 157336
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
+        "title": "ブレードランナー 2049",
+        "director": "ドゥニ・ヴィルヌーヴ",
+        "year": "2017",
+        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
+        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
+        "tmdbId": 335984
       },
       {
         "title": "シャドウズ・エッジ",
@@ -57,21 +68,32 @@
         "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
         "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
         "tmdbId": 1419406
-      },
-      {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
-        "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
       }
     ],
     "sadness": [
       {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
+      {
         "title": "ユナボマー",
         "director": "Janus Metz",
         "year": "2026",
@@ -81,17 +103,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
         "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
         "tmdbId": 1492640
-      },
-      {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
       },
       {
         "title": "インターステラー",
@@ -105,15 +116,15 @@
         "tmdbId": 157336
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
+        "title": "ブレードランナー 2049",
+        "director": "ドゥニ・ヴィルヌーヴ",
+        "year": "2017",
+        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
+        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
+        "tmdbId": 335984
       },
       {
         "title": "シャドウズ・エッジ",
@@ -125,17 +136,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
         "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
         "tmdbId": 1419406
-      },
-      {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
-        "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
       }
     ],
     "tired": [
@@ -149,6 +149,28 @@
         "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
+      },
+      {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
       },
       {
         "title": "トイ・ストーリー５",
@@ -182,31 +204,31 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
-        "title": "パウ・パトロール ザ・ダイノ・ムービー",
-        "director": "Cal Brunker",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
-        "tmdbId": 1185806
       }
     ],
     "loneliness": [
+      {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
       {
         "title": "ユナボマー",
         "director": "Janus Metz",
@@ -217,17 +239,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
         "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
         "tmdbId": 1492640
-      },
-      {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
       },
       {
         "title": "インターステラー",
@@ -241,15 +252,15 @@
         "tmdbId": 157336
       },
       {
-        "title": "The Death of Robin Hood",
-        "director": "マイケル・サルノスキ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
+        "title": "ブレードランナー 2049",
+        "director": "ドゥニ・ヴィルヌーヴ",
+        "year": "2017",
+        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
+        "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "link": "https://www.themoviedb.org/movie/1284465?language=ja-JP",
-        "tmdbId": 1284465
+        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
+        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
+        "tmdbId": 335984
       },
       {
         "title": "シャドウズ・エッジ",
@@ -261,17 +272,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
         "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
         "tmdbId": 1419406
-      },
-      {
-        "title": "ラスト・サンライズ",
-        "director": "Carlson Young",
-        "year": "2026",
-        "why": "同名小説を原作にした「ラスト・サンライズ」は、持病を抱えたライが母と訪れたマヨルカ島でのひと夏を描く物語。ライは思いがけずフリアンと恋に落ち、一瞬一瞬を大切に生きるようになるが、持…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/msiwULea5wXKITq59eaMo4Lblda.jpg",
-        "link": "https://www.themoviedb.org/movie/1516698?language=ja-JP",
-        "tmdbId": 1516698
       }
     ],
     "anger": [
@@ -309,6 +309,17 @@
         "tmdbId": 1339713
       },
       {
+        "title": "ハート・オブ・ビースト",
+        "director": "デヴィッド・エアー",
+        "year": "2026",
+        "why": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
+        "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
+        "tmdbId": 1263337
+      },
+      {
         "title": "ユナボマー",
         "director": "Janus Metz",
         "year": "2026",
@@ -320,29 +331,29 @@
         "tmdbId": 1492640
       },
       {
-        "title": "エンフレンタードス：純白の令嬢",
-        "director": "Óscar Pedraza",
+        "title": "Ice Cream Man",
+        "director": "イーライ・ロス",
         "year": "2026",
-        "why": "スペインの有力な実業家の娘であるマルフィルはニューヨークで誘拐され、目的不明のまま突然解放される。その後、彼女の人生は一変。父親はボディガードとしてセバスチャン・ムーアを雇い、２人…",
-        "time": "medium",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nAsRMhULOSx177X746DRjGzPt93.jpg",
-        "link": "https://www.themoviedb.org/movie/1440098?language=ja-JP",
-        "tmdbId": 1440098
-      },
-      {
-        "title": "ウォー・オブ・ザ・ワールド",
-        "director": "Rich Lee",
-        "year": "2025",
-        "why": "ウィル・ラドフォードは、国土安全保障省のトップサイバーセキュリティアナリストです。大規模監視プログラムを通じて国家安全保障への潜在的な脅威を追跡しています。ある日、正体不明の組織に…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-        "link": "https://www.themoviedb.org/movie/755898?language=ja-JP",
-        "tmdbId": 755898
+        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
+        "tmdbId": 1477712
       }
     ],
     "stagnation": [
+      {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
       {
         "title": "ラブ・ハイポセシス",
         "director": "クレア・スキャンロン",
@@ -355,6 +366,17 @@
         "tmdbId": 1032863
       },
       {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
+      {
         "title": "ユナボマー",
         "director": "Janus Metz",
         "year": "2026",
@@ -375,28 +397,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/nAsRMhULOSx177X746DRjGzPt93.jpg",
         "link": "https://www.themoviedb.org/movie/1440098?language=ja-JP",
         "tmdbId": 1440098
-      },
-      {
-        "title": "キャンプ・ミアズマ ティーンのセックスと死",
-        "director": "Jane Schoenbrun",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-        "link": "https://www.themoviedb.org/movie/1240889?language=ja-JP",
-        "tmdbId": 1240889
-      },
-      {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
       },
       {
         "title": "インターステラー",
@@ -456,26 +456,26 @@
         "tmdbId": 1204680
       },
       {
-        "title": "Mutiny",
-        "director": "ジャン＝フランソワ・リシェ",
+        "title": "Runner",
+        "director": "スコット・ウォー",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
-        "tmdbId": 1288445
+        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
+        "tmdbId": 1377237
       },
       {
-        "title": "コロニー／群体",
-        "director": "ヨン・サンホ",
-        "year": "2026",
-        "why": "ソウル都心の超高層ビル。突如発生した未知のバイオテロにより封鎖され逃げ場なきビルに残されたバイオテクノロジー教授であるクォン・セジョン（チョン・ジヒョン）らは、粘る糸を引きながら猛…",
+        "title": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+        "director": "Johannes Roberts",
+        "year": "2021",
+        "why": "アメリカ合衆国中西部に位置するラクーンシティ。自然豊かなこの街の郊外に以前は製薬会社アンブレラ社の工場が存在したが、今はその殆どの施設は移転してしまっている。 このアンブレラ社が秘…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/zrYz4XEfT4Rx6Div0wPFfQwyFqK.jpg",
-        "link": "https://www.themoviedb.org/movie/1375646?language=ja-JP",
-        "tmdbId": 1375646
+        "cover": "https://image.tmdb.org/t/p/w200/oSSX3EZMRT1uS5z7IStyjbfBVfz.jpg",
+        "link": "https://www.themoviedb.org/movie/460458?language=ja-JP",
+        "tmdbId": 460458
       }
     ],
     "calm": [
@@ -491,6 +491,28 @@
         "tmdbId": 1204680
       },
       {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
+      {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
         "year": "2026",
@@ -522,28 +544,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
-        "title": "パウ・パトロール ザ・ダイノ・ムービー",
-        "director": "Cal Brunker",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
-        "tmdbId": 1185806
       }
     ],
     "confusion": [
@@ -559,15 +559,26 @@
         "tmdbId": 1101383
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
         "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
       },
       {
         "title": "Pinocchio: Unstrung",
@@ -581,6 +592,17 @@
         "tmdbId": 1232569
       },
       {
+        "title": "ユナボマー",
+        "director": "Janus Metz",
+        "year": "2026",
+        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
+        "tmdbId": 1492640
+      },
+      {
         "title": "バックルームズ",
         "director": "ケイン・パーソンズ",
         "year": "2026",
@@ -590,28 +612,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/z52Eabu4xm5I8ksqdKOSylo5wWL.jpg",
         "link": "https://www.themoviedb.org/movie/1083381?language=ja-JP",
         "tmdbId": 1083381
-      },
-      {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
-      },
-      {
-        "title": "ズートピア2",
-        "director": "ジャレド・ブッシュ",
-        "year": "2025",
-        "why": "警察学校を無事卒業し警察官となったニックと、ウサギ初の警官として以前にもまして熱心に任務に挑むジュディが再びバディを組むことに！ある日、ズートピアに突如現れたヘビ・ゲイリーをきっか…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sp8eWmg3HwNKdqdgGhoE2XACfO6.jpg",
-        "link": "https://www.themoviedb.org/movie/1084242?language=ja-JP",
-        "tmdbId": 1084242
       }
     ],
     "gratitude": [
@@ -627,6 +627,28 @@
         "tmdbId": 1204680
       },
       {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
+      },
+      {
         "title": "トイ・ストーリー５",
         "director": "アンドリュー・スタントン",
         "year": "2026",
@@ -658,28 +680,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
         "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
         "tmdbId": 1108427
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
-      },
-      {
-        "title": "パウ・パトロール ザ・ダイノ・ムービー",
-        "director": "Cal Brunker",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-        "link": "https://www.themoviedb.org/movie/1185806?language=ja-JP",
-        "tmdbId": 1185806
       }
     ],
     "joy": [
@@ -695,6 +695,28 @@
         "tmdbId": 1204680
       },
       {
+        "title": "Runner",
+        "director": "スコット・ウォー",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
+        "tmdbId": 1377237
+      },
+      {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
         "title": "ラブ・ハイポセシス",
         "director": "クレア・スキャンロン",
         "year": "2026",
@@ -717,37 +739,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "Ice Cream Man",
+        "director": "イーライ・ロス",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
-      },
-      {
-        "title": "キャンプ・ミアズマ ティーンのセックスと死",
-        "director": "Jane Schoenbrun",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-        "link": "https://www.themoviedb.org/movie/1240889?language=ja-JP",
-        "tmdbId": 1240889
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
+        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
+        "tmdbId": 1477712
       }
     ],
     "fun": [
@@ -763,6 +763,28 @@
         "tmdbId": 1204680
       },
       {
+        "title": "Runner",
+        "director": "スコット・ウォー",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
+        "tmdbId": 1377237
+      },
+      {
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
         "title": "ラブ・ハイポセシス",
         "director": "クレア・スキャンロン",
         "year": "2026",
@@ -785,37 +807,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "Ice Cream Man",
+        "director": "イーライ・ロス",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
-      },
-      {
-        "title": "キャンプ・ミアズマ ティーンのセックスと死",
-        "director": "Jane Schoenbrun",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-        "link": "https://www.themoviedb.org/movie/1240889?language=ja-JP",
-        "tmdbId": 1240889
-      },
-      {
-        "title": "ミニオンズ＆モンスターズ",
-        "director": "Pierre Coffin",
-        "year": "2026",
-        "why": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが…",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-        "link": "https://www.themoviedb.org/movie/1315772?language=ja-JP",
-        "tmdbId": 1315772
+        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
+        "tmdbId": 1477712
       }
     ]
   }
