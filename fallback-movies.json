@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-11",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
       {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
+      {
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
+      },
+      {
         "title": "DIGGER／ディガー",
         "director": "アレハンドロ・G・イニャリトゥ",
         "year": "2026",
@@ -26,17 +48,6 @@
         "tmdbId": 977942
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
         "title": "インターステラー",
         "director": "クリストファー・ノーラン",
         "year": "2014",
@@ -48,30 +59,41 @@
         "tmdbId": 157336
       },
       {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
+        "title": "Michael／マイケル",
+        "director": "アントワーン・フークア",
+        "year": "2026",
+        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
+        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
+        "tmdbId": 936075
       }
     ],
     "sadness": [
       {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
+      {
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
+      },
+      {
         "title": "DIGGER／ディガー",
         "director": "アレハンドロ・G・イニャリトゥ",
         "year": "2026",
@@ -94,17 +116,6 @@
         "tmdbId": 977942
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
         "title": "インターステラー",
         "director": "クリストファー・ノーラン",
         "year": "2014",
@@ -116,29 +127,29 @@
         "tmdbId": 157336
       },
       {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
+        "title": "Michael／マイケル",
+        "director": "アントワーン・フークア",
+        "year": "2026",
+        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
+        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
+        "tmdbId": 936075
       }
     ],
     "tired": [
+      {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
       {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
@@ -149,28 +160,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
-      },
-      {
-        "title": "DIGGER／ディガー",
-        "director": "アレハンドロ・G・イニャリトゥ",
-        "year": "2026",
-        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
-        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
-        "tmdbId": 1248832
-      },
-      {
-        "title": "The Uprising",
-        "director": "ポール・グリーングラス",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
-        "tmdbId": 977942
       },
       {
         "title": "トイ・ストーリー５",
@@ -184,29 +173,62 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
         "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
       },
       {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
+        "year": "2026",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
+      },
+      {
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
       }
     ],
     "loneliness": [
+      {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
+      {
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
+      },
       {
         "title": "DIGGER／ディガー",
         "director": "アレハンドロ・G・イニャリトゥ",
@@ -230,17 +252,6 @@
         "tmdbId": 977942
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
         "title": "インターステラー",
         "director": "クリストファー・ノーラン",
         "year": "2014",
@@ -252,29 +263,51 @@
         "tmdbId": 157336
       },
       {
-        "title": "ブレードランナー 2049",
-        "director": "ドゥニ・ヴィルヌーヴ",
-        "year": "2017",
-        "why": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救…",
-        "time": "long",
+        "title": "Michael／マイケル",
+        "director": "アントワーン・フークア",
+        "year": "2026",
+        "why": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、アーティストの枠を超え、全世界的なアイコンとなった“キング・オブ・ポップ”＝マイケル・ジャクソン。彼は幼いころから兄弟と共に歌い続け…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/b71GL7ZKlPlDCbou4k4XbaHQzZ3.jpg",
-        "link": "https://www.themoviedb.org/movie/335984?language=ja-JP",
-        "tmdbId": 335984
-      },
-      {
-        "title": "シャドウズ・エッジ",
-        "director": "杨子",
-        "year": "2025",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
-        "link": "https://www.themoviedb.org/movie/1419406?language=ja-JP",
-        "tmdbId": 1419406
+        "cover": "https://image.tmdb.org/t/p/w200/A23qVaLfdpfQlJ9VS1vvP5m5UfS.jpg",
+        "link": "https://www.themoviedb.org/movie/936075?language=ja-JP",
+        "tmdbId": 936075
       }
     ],
     "anger": [
+      {
+        "title": "Insidious: Out of the Further",
+        "director": "ジェイコブ・チェイス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "link": "https://www.themoviedb.org/movie/1291595?language=ja-JP",
+        "tmdbId": 1291595
+      },
+      {
+        "title": "Fall 2: Deadpoint",
+        "director": "マイケル・スピエリッグ",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "link": "https://www.themoviedb.org/movie/1101412?language=ja-JP",
+        "tmdbId": 1101412
+      },
+      {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
       {
         "title": "オークストリートの異変",
         "director": "デヴィッド・ロバート・ミッチェル",
@@ -287,15 +320,15 @@
         "tmdbId": 1101383
       },
       {
-        "title": "Mutiny",
-        "director": "ジャン＝フランソワ・リシェ",
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "link": "https://www.themoviedb.org/movie/1288445?language=ja-JP",
-        "tmdbId": 1288445
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
       },
       {
         "title": "オブセッション 災愛",
@@ -307,42 +340,31 @@
         "cover": "https://image.tmdb.org/t/p/w200/vJIRyV24YoZcF79EdmddbX6MlQP.jpg",
         "link": "https://www.themoviedb.org/movie/1339713?language=ja-JP",
         "tmdbId": 1339713
-      },
+      }
+    ],
+    "stagnation": [
       {
-        "title": "ハート・オブ・ビースト",
-        "director": "デヴィッド・エアー",
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
         "year": "2026",
-        "why": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を…",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
-        "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
-        "tmdbId": 1263337
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
-        "title": "Ice Cream Man",
-        "director": "イーライ・ロス",
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
-        "tmdbId": 1477712
-      }
-    ],
-    "stagnation": [
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
+      },
       {
         "title": "DIGGER／ディガー",
         "director": "アレハンドロ・G・イニャリトゥ",
@@ -375,28 +397,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
         "tmdbId": 977942
-      },
-      {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
-        "title": "エンフレンタードス：純白の令嬢",
-        "director": "Óscar Pedraza",
-        "year": "2026",
-        "why": "スペインの有力な実業家の娘であるマルフィルはニューヨークで誘拐され、目的不明のまま突然解放される。その後、彼女の人生は一変。父親はボディガードとしてセバスチャン・ムーアを雇い、２人…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nAsRMhULOSx177X746DRjGzPt93.jpg",
-        "link": "https://www.themoviedb.org/movie/1440098?language=ja-JP",
-        "tmdbId": 1440098
       },
       {
         "title": "インターステラー",
@@ -445,17 +445,6 @@
         "tmdbId": 1368337
       },
       {
-        "title": "Coyote vs. Acme",
-        "director": "デイヴ・グリーン",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
-        "tmdbId": 1204680
-      },
-      {
         "title": "Runner",
         "director": "スコット・ウォー",
         "year": "2026",
@@ -476,9 +465,7 @@
         "cover": "https://image.tmdb.org/t/p/w200/oSSX3EZMRT1uS5z7IStyjbfBVfz.jpg",
         "link": "https://www.themoviedb.org/movie/460458?language=ja-JP",
         "tmdbId": 460458
-      }
-    ],
-    "calm": [
+      },
       {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
@@ -489,28 +476,30 @@
         "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
-      },
+      }
+    ],
+    "calm": [
       {
-        "title": "DIGGER／ディガー",
-        "director": "アレハンドロ・G・イニャリトゥ",
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
         "year": "2026",
-        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
-        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
-        "tmdbId": 1248832
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
       },
       {
-        "title": "The Uprising",
-        "director": "ポール・グリーングラス",
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
-        "tmdbId": 977942
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
       },
       {
         "title": "トイ・ストーリー５",
@@ -524,39 +513,15 @@
         "tmdbId": 1084244
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
-      }
-    ],
-    "confusion": [
-      {
-        "title": "オークストリートの異変",
-        "director": "デヴィッド・ロバート・ミッチェル",
-        "year": "2026",
-        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
-        "tmdbId": 1101383
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
       },
       {
         "title": "DIGGER／ディガー",
@@ -579,6 +544,41 @@
         "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
         "tmdbId": 977942
+      }
+    ],
+    "confusion": [
+      {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
+      {
+        "title": "オークストリートの異変",
+        "director": "デヴィッド・ロバート・ミッチェル",
+        "year": "2026",
+        "why": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+        "link": "https://www.themoviedb.org/movie/1101383?language=ja-JP",
+        "tmdbId": 1101383
+      },
+      {
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
       },
       {
         "title": "Pinocchio: Unstrung",
@@ -592,29 +592,40 @@
         "tmdbId": 1232569
       },
       {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
+        "title": "DIGGER／ディガー",
+        "director": "アレハンドロ・G・イニャリトゥ",
         "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
+        "why": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じら…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
+        "cover": "https://image.tmdb.org/t/p/w200/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
+        "link": "https://www.themoviedb.org/movie/1248832?language=ja-JP",
+        "tmdbId": 1248832
       },
       {
-        "title": "バックルームズ",
-        "director": "ケイン・パーソンズ",
+        "title": "The Uprising",
+        "director": "ポール・グリーングラス",
         "year": "2026",
-        "why": "舞台は、都市伝説とされていた空間“Backrooms”。「ある日突然 “現実世界の裏側”へ墜ちてしまったら…？」どこまでも続く黄色い壁紙の部屋、終わりのない廊下。不自然な間取りと、…",
+        "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/z52Eabu4xm5I8ksqdKOSylo5wWL.jpg",
-        "link": "https://www.themoviedb.org/movie/1083381?language=ja-JP",
-        "tmdbId": 1083381
+        "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
+        "tmdbId": 977942
       }
     ],
     "gratitude": [
+      {
+        "title": "アニマルズ",
+        "director": "ベン・アフレック",
+        "year": "2026",
+        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
+        "tmdbId": 1236045
+      },
       {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
@@ -625,6 +636,28 @@
         "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
         "tmdbId": 1204680
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      },
+      {
+        "title": "No dejes a los niños solos",
+        "director": "Emilio Portes",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+        "link": "https://www.themoviedb.org/movie/1339274?language=ja-JP",
+        "tmdbId": 1339274
       },
       {
         "title": "DIGGER／ディガー",
@@ -647,43 +680,21 @@
         "cover": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "link": "https://www.themoviedb.org/movie/977942?language=ja-JP",
         "tmdbId": 977942
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "ユナボマー",
-        "director": "Janus Metz",
-        "year": "2026",
-        "why": "ハーバードで学ぶ天才少年であり、実験の被験者だった彼はなぜ爆弾魔となったのか。FBIがユナボマーを追うなか、テッド・カジンスキーがたどった道のりが明かされていく。実話に着想を得た物…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "link": "https://www.themoviedb.org/movie/1492640?language=ja-JP",
-        "tmdbId": 1492640
-      },
-      {
-        "title": "モアナと伝説の海",
-        "director": "Thomas Kail",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-        "link": "https://www.themoviedb.org/movie/1108427?language=ja-JP",
-        "tmdbId": 1108427
       }
     ],
     "joy": [
       {
+        "title": "Runner",
+        "director": "スコット・ウォー",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
+        "tmdbId": 1377237
+      },
+      {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
         "year": "2026",
@@ -695,15 +706,26 @@
         "tmdbId": 1204680
       },
       {
-        "title": "Runner",
-        "director": "スコット・ウォー",
+        "title": "Matchbox ザ・ムービー",
+        "director": "サム・ハーグレイヴ",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "why": "子供の頃の友人グループが再結成する。すると、彼らは危険な国際的陰謀に遭遇することに。そして、その仲間たちの再会は意外な展開を見せる。世界を救うという使命が、彼らに託されるのであった…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
-        "tmdbId": 1377237
+        "cover": "https://image.tmdb.org/t/p/w200/4bY4EvWpIoi8Q9F51l9OyeuDd5X.jpg",
+        "link": "https://www.themoviedb.org/movie/1148365?language=ja-JP",
+        "tmdbId": 1148365
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       },
       {
         "title": "DIGGER／ディガー",
@@ -726,32 +748,21 @@
         "cover": "https://image.tmdb.org/t/p/w200/baZi0cpYCIb78xyhOe9EjC2iRy6.jpg",
         "link": "https://www.themoviedb.org/movie/1032863?language=ja-JP",
         "tmdbId": 1032863
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "Ice Cream Man",
-        "director": "イーライ・ロス",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
-        "tmdbId": 1477712
       }
     ],
     "fun": [
       {
+        "title": "Runner",
+        "director": "スコット・ウォー",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
+        "tmdbId": 1377237
+      },
+      {
         "title": "Coyote vs. Acme",
         "director": "デイヴ・グリーン",
         "year": "2026",
@@ -763,15 +774,26 @@
         "tmdbId": 1204680
       },
       {
-        "title": "Runner",
-        "director": "スコット・ウォー",
+        "title": "Matchbox ザ・ムービー",
+        "director": "サム・ハーグレイヴ",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "why": "子供の頃の友人グループが再結成する。すると、彼らは危険な国際的陰謀に遭遇することに。そして、その仲間たちの再会は意外な展開を見せる。世界を救うという使命が、彼らに託されるのであった…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "link": "https://www.themoviedb.org/movie/1377237?language=ja-JP",
-        "tmdbId": 1377237
+        "cover": "https://image.tmdb.org/t/p/w200/4bY4EvWpIoi8Q9F51l9OyeuDd5X.jpg",
+        "link": "https://www.themoviedb.org/movie/1148365?language=ja-JP",
+        "tmdbId": 1148365
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       },
       {
         "title": "DIGGER／ディガー",
@@ -794,28 +816,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/baZi0cpYCIb78xyhOe9EjC2iRy6.jpg",
         "link": "https://www.themoviedb.org/movie/1032863?language=ja-JP",
         "tmdbId": 1032863
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      },
-      {
-        "title": "Ice Cream Man",
-        "director": "イーライ・ロス",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-        "link": "https://www.themoviedb.org/movie/1477712?language=ja-JP",
-        "tmdbId": 1477712
       }
     ]
   }
