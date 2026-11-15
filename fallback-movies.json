@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-15",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
       },
       {
         "title": "La bola negra",
@@ -26,61 +26,61 @@
         "tmdbId": 1422041
       },
       {
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      },
+      {
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
+      },
+      {
         "title": "プライムタイム",
         "director": "ランス・オッペンハイム",
         "year": "2026",
         "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
         "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
         "tmdbId": 1375441
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "シャッフル",
+        "director": "Mennan Yapo",
+        "year": "2007",
+        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
-      },
-      {
-        "title": "センス・アンド・センシビリティ 分別と多感",
-        "director": "Georgia Oakley",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-        "link": "https://www.themoviedb.org/movie/1503762?language=ja-JP",
-        "tmdbId": 1503762
-      },
-      {
-        "title": "アニマルズ",
-        "director": "ベン・アフレック",
-        "year": "2026",
-        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/KqcfuaMk5XP72JOaFGLqzcbaob.jpg",
-        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
-        "tmdbId": 1236045
+        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
+        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
+        "tmdbId": 9963
       }
     ],
     "sadness": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
       },
       {
         "title": "La bola negra",
@@ -94,61 +94,72 @@
         "tmdbId": 1422041
       },
       {
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      },
+      {
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
+      },
+      {
         "title": "プライムタイム",
         "director": "ランス・オッペンハイム",
         "year": "2026",
         "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
         "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
         "tmdbId": 1375441
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "シャッフル",
+        "director": "Mennan Yapo",
+        "year": "2007",
+        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
-      },
-      {
-        "title": "センス・アンド・センシビリティ 分別と多感",
-        "director": "Georgia Oakley",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-        "link": "https://www.themoviedb.org/movie/1503762?language=ja-JP",
-        "tmdbId": 1503762
-      },
-      {
-        "title": "アニマルズ",
-        "director": "ベン・アフレック",
-        "year": "2026",
-        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/KqcfuaMk5XP72JOaFGLqzcbaob.jpg",
-        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
-        "tmdbId": 1236045
+        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
+        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
+        "tmdbId": 9963
       }
     ],
     "tired": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
+      },
+      {
+        "title": "La bola negra",
+        "director": "Javier Ambrossi",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
+        "tmdbId": 1422041
       },
       {
         "title": "リメンバー・ミー",
@@ -162,61 +173,50 @@
         "tmdbId": 354912
       },
       {
-        "title": "La bola negra",
-        "director": "Javier Ambrossi",
+        "title": "フォーガットン・アイランド 忘却の魔法島",
+        "director": "ジャニュエル・メルカド",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
-        "tmdbId": 1422041
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
+        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
+        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
+        "tmdbId": 1465063
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
       },
       {
-        "title": "ナイトメアー・ビフォア・クリスマス",
-        "director": "ヘンリー・セリック",
-        "year": "1993",
-        "why": "日々繰り返される祭りの準備に憂鬱なハロウィンの王様ジャックは、ある日、偶然クリスマスの世界へ迷い込む。その華やかさに魅了された彼は、ハロウィン風クリスマスの計画を思いつく。しかし、…",
-        "time": "short",
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uB7qOOZZ50FXUuyohGHd4Nbbie3.jpg",
-        "link": "https://www.themoviedb.org/movie/9479?language=ja-JP",
-        "tmdbId": 9479
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       }
     ],
     "loneliness": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
       },
       {
         "title": "La bola negra",
@@ -230,73 +230,51 @@
         "tmdbId": 1422041
       },
       {
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      },
+      {
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
+      },
+      {
         "title": "プライムタイム",
         "director": "ランス・オッペンハイム",
         "year": "2026",
         "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
         "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
         "tmdbId": 1375441
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "title": "シャッフル",
+        "director": "Mennan Yapo",
+        "year": "2007",
+        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
-      },
-      {
-        "title": "センス・アンド・センシビリティ 分別と多感",
-        "director": "Georgia Oakley",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-        "link": "https://www.themoviedb.org/movie/1503762?language=ja-JP",
-        "tmdbId": 1503762
-      },
-      {
-        "title": "アニマルズ",
-        "director": "ベン・アフレック",
-        "year": "2026",
-        "why": "息子を誘拐されたロサンゼルス市長候補とその妻。自分たちの世界を引き裂きかねない選択に直面しながら、我が子のために必死で身代金をかき集めようとするが...。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/KqcfuaMk5XP72JOaFGLqzcbaob.jpg",
-        "link": "https://www.themoviedb.org/movie/1236045?language=ja-JP",
-        "tmdbId": 1236045
+        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
+        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
+        "tmdbId": 9963
       }
     ],
     "anger": [
-      {
-        "title": "ダークナイト",
-        "director": "クリストファー・ノーラン",
-        "year": "2008",
-        "why": "悪のはびこるゴッサム・シティーを舞台に、ジム警部補やハービー・デント地方検事の協力のもと、バットマンは街で起こる犯罪撲滅の成果を上げつつあった。だが、ジョーカーと名乗る謎の犯罪者の…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nftQJb9550PtYFXhmTs7XiN0QhR.jpg",
-        "link": "https://www.themoviedb.org/movie/155?language=ja-JP",
-        "tmdbId": 155
-      },
-      {
-        "title": "アポカリプスZ：新しい世界",
-        "director": "カルレス・トレンス",
-        "year": "2026",
-        "why": "ＴＳＪウイルスの流行を受け、カナリア諸島はヨーロッパ最後の避難所となった。物資を求めてマドリードへ向かう遠征隊に、ロベルトは裏の目的を隠して参加する。感染者に囲まれ、忠誠心を試され…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-        "link": "https://www.themoviedb.org/movie/1507696?language=ja-JP",
-        "tmdbId": 1507696
-      },
       {
         "title": "ハート・オブ・ビースト",
         "director": "デヴィッド・エアー",
@@ -307,6 +285,28 @@
         "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
         "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
         "tmdbId": 1263337
+      },
+      {
+        "title": "アポカリプスZ：新しい世界",
+        "director": "カルレス・トレンス",
+        "year": "2026",
+        "why": "ＴＳＪウイルスの流行を受け、カナリア諸島はヨーロッパ最後の避難所となった。物資を求めてマドリードへ向かう遠征隊に、ロベルトは裏の目的を隠して参加する。感染者に囲まれ、忠誠心を試され…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/pS2R3DEiucuizVkKP80qzdO97TE.jpg",
+        "link": "https://www.themoviedb.org/movie/1507696?language=ja-JP",
+        "tmdbId": 1507696
+      },
+      {
+        "title": "The Mongoose",
+        "director": "Mark Vanselow",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "link": "https://www.themoviedb.org/movie/1294189?language=ja-JP",
+        "tmdbId": 1294189
       },
       {
         "title": "ヴェリティ／真実",
@@ -320,17 +320,6 @@
         "tmdbId": 1283515
       },
       {
-        "title": "El despertar",
-        "director": "Jaime Osorio Márquez",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
-        "link": "https://www.themoviedb.org/movie/1657630?language=ja-JP",
-        "tmdbId": 1657630
-      },
-      {
         "title": "Fall 2: Deadpoint",
         "director": "マイケル・スピエリッグ",
         "year": "2026",
@@ -340,19 +329,41 @@
         "cover": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
         "link": "https://www.themoviedb.org/movie/1101412?language=ja-JP",
         "tmdbId": 1101412
+      },
+      {
+        "title": "Drive – The Pretenders",
+        "director": "Sergej Moya",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
+        "link": "https://www.themoviedb.org/movie/1596275?language=ja-JP",
+        "tmdbId": 1596275
       }
     ],
     "stagnation": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
+      },
+      {
+        "title": "La bola negra",
+        "director": "Javier Ambrossi",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
+        "tmdbId": 1422041
       },
       {
         "title": "Drive – The Pretenders",
@@ -366,15 +377,26 @@
         "tmdbId": 1596275
       },
       {
-        "title": "La bola negra",
-        "director": "Javier Ambrossi",
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      },
+      {
+        "title": "インターステラー",
+        "director": "クリストファー・ノーラン",
+        "year": "2014",
+        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
-        "tmdbId": 1422041
+        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
+        "tmdbId": 157336
       },
       {
         "title": "プライムタイム",
@@ -383,55 +405,22 @@
         "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
         "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
         "tmdbId": 1375441
-      },
-      {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
-      },
-      {
-        "title": "プラティカル・マジック／魔女たちの秘密",
-        "director": "スサンネ・ビア",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "link": "https://www.themoviedb.org/movie/1302904?language=ja-JP",
-        "tmdbId": 1302904
       }
     ],
     "adventure": [
       {
-        "title": "プロジェクト・ヘイル・メアリー",
-        "director": "フィル・ロード",
+        "title": "ハート・オブ・ビースト",
+        "director": "デヴィッド・エアー",
         "year": "2026",
-        "why": "未知の原因によって太陽エネルギーが奪われる異常事態が発生。このままでは地球の気温は低下し、全生命は滅亡する。 この絶望的な危機を救う鍵が、11.9光年先の宇宙にあると突き止めた人類…",
-        "time": "long",
+        "why": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/laVssxUceGPReVeLM6GVVDwXBF3.jpg",
-        "link": "https://www.themoviedb.org/movie/687163?language=ja-JP",
-        "tmdbId": 687163
-      },
-      {
-        "title": "ダークナイト",
-        "director": "クリストファー・ノーラン",
-        "year": "2008",
-        "why": "悪のはびこるゴッサム・シティーを舞台に、ジム警部補やハービー・デント地方検事の協力のもと、バットマンは街で起こる犯罪撲滅の成果を上げつつあった。だが、ジョーカーと名乗る謎の犯罪者の…",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nftQJb9550PtYFXhmTs7XiN0QhR.jpg",
-        "link": "https://www.themoviedb.org/movie/155?language=ja-JP",
-        "tmdbId": 155
+        "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
+        "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
+        "tmdbId": 1263337
       },
       {
         "title": "バイオハザード",
@@ -445,26 +434,15 @@
         "tmdbId": 1423191
       },
       {
-        "title": "アポカリプスZ：新しい世界",
-        "director": "カルレス・トレンス",
+        "title": "オデュッセイア",
+        "director": "クリストファー・ノーラン",
         "year": "2026",
-        "why": "ＴＳＪウイルスの流行を受け、カナリア諸島はヨーロッパ最後の避難所となった。物資を求めてマドリードへ向かう遠征隊に、ロベルトは裏の目的を隠して参加する。感染者に囲まれ、忠誠心を試され…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-        "link": "https://www.themoviedb.org/movie/1507696?language=ja-JP",
-        "tmdbId": 1507696
-      },
-      {
-        "title": "호프",
-        "director": "ナ・ホンジン",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "トロイア戦争の終結後、イタケーの伝説的な王オデュッセウスは、故郷への長く危険に満ちた帰還の旅に出る。その航海の途上、彼は神々の気まぐれや神話の怪物たち、そして自身の知略と人間性の双…",
         "time": "long",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nDdpfDzuK8VmDlX83yxoLjsgTxt.jpg",
-        "link": "https://www.themoviedb.org/movie/1058424?language=ja-JP",
-        "tmdbId": 1058424
+        "cover": "https://image.tmdb.org/t/p/w200/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
+        "link": "https://www.themoviedb.org/movie/1368337?language=ja-JP",
+        "tmdbId": 1368337
       },
       {
         "title": "スパイダーマン：ブランド・ニュー・デイ",
@@ -476,30 +454,41 @@
         "cover": "https://image.tmdb.org/t/p/w200/hvbs76wGMZYqJSvaRps5jDzHUhN.jpg",
         "link": "https://www.themoviedb.org/movie/969681?language=ja-JP",
         "tmdbId": 969681
+      },
+      {
+        "title": "プロジェクト・ヘイル・メアリー",
+        "director": "フィル・ロード",
+        "year": "2026",
+        "why": "未知の原因によって太陽エネルギーが奪われる異常事態が発生。このままでは地球の気温は低下し、全生命は滅亡する。 この絶望的な危機を救う鍵が、11.9光年先の宇宙にあると突き止めた人類…",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/laVssxUceGPReVeLM6GVVDwXBF3.jpg",
+        "link": "https://www.themoviedb.org/movie/687163?language=ja-JP",
+        "tmdbId": 687163
+      },
+      {
+        "title": "호프",
+        "director": "ナ・ホンジン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/nDdpfDzuK8VmDlX83yxoLjsgTxt.jpg",
+        "link": "https://www.themoviedb.org/movie/1058424?language=ja-JP",
+        "tmdbId": 1058424
       }
     ],
     "calm": [
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
-      },
-      {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
       },
       {
         "title": "La bola negra",
@@ -513,40 +502,62 @@
         "tmdbId": 1422041
       },
       {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
+        "title": "リメンバー・ミー",
+        "director": "Lee Unkrich",
+        "year": "2017",
+        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
+        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
+        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
+        "tmdbId": 354912
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
+        "title": "フォーガットン・アイランド 忘却の魔法島",
+        "director": "ジャニュエル・メルカド",
+        "year": "2026",
+        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
+        "tmdbId": 1465063
+      },
+      {
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      }
+    ],
+    "confusion": [
+      {
+        "title": "アザー・マミー",
+        "director": "ロブ・サヴェージ",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
+        "cover": "https://image.tmdb.org/t/p/w200/qs0kHXbRadmtDIH5EmIoiqV0rX1.jpg",
+        "link": "https://www.themoviedb.org/movie/1400837?language=ja-JP",
+        "tmdbId": 1400837
       },
-      {
-        "title": "ナイトメアー・ビフォア・クリスマス",
-        "director": "ヘンリー・セリック",
-        "year": "1993",
-        "why": "日々繰り返される祭りの準備に憂鬱なハロウィンの王様ジャックは、ある日、偶然クリスマスの世界へ迷い込む。その華やかさに魅了された彼は、ハロウィン風クリスマスの計画を思いつく。しかし、…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uB7qOOZZ50FXUuyohGHd4Nbbie3.jpg",
-        "link": "https://www.themoviedb.org/movie/9479?language=ja-JP",
-        "tmdbId": 9479
-      }
-    ],
-    "confusion": [
       {
         "title": "호프",
         "director": "ナ・ホンジン",
@@ -559,15 +570,26 @@
         "tmdbId": 1058424
       },
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
+      },
+      {
+        "title": "La bola negra",
+        "director": "Javier Ambrossi",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
+        "tmdbId": 1422041
       },
       {
         "title": "ヴェリティ／真実",
@@ -581,6 +603,30 @@
         "tmdbId": 1283515
       },
       {
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
+      }
+    ],
+    "gratitude": [
+      {
+        "title": "A Story of Derry",
+        "director": "Tazbah Chavez",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "link": "https://www.themoviedb.org/movie/1813355?language=ja-JP",
+        "tmdbId": 1813355
+      },
+      {
         "title": "La bola negra",
         "director": "Javier Ambrossi",
         "year": "2026",
@@ -590,41 +636,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
         "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
         "tmdbId": 1422041
-      },
-      {
-        "title": "Pinocchio: Unstrung",
-        "director": "Rhys Frake-Waterfield",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-        "link": "https://www.themoviedb.org/movie/1232569?language=ja-JP",
-        "tmdbId": 1232569
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
-      }
-    ],
-    "gratitude": [
-      {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
       },
       {
         "title": "リメンバー・ミー",
@@ -638,62 +649,40 @@
         "tmdbId": 354912
       },
       {
-        "title": "La bola negra",
-        "director": "Javier Ambrossi",
+        "title": "フォーガットン・アイランド 忘却の魔法島",
+        "director": "ジャニュエル・メルカド",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-        "link": "https://www.themoviedb.org/movie/1422041?language=ja-JP",
-        "tmdbId": 1422041
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
+        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
+        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
+        "tmdbId": 1465063
       },
       {
-        "title": "Contra el huracán",
-        "director": "Jorge Michel Grau",
+        "title": "Colisión",
+        "director": "Daniel Sánchez Arévalo",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-        "link": "https://www.themoviedb.org/movie/1780005?language=ja-JP",
-        "tmdbId": 1780005
+        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
+        "tmdbId": 1571955
       },
       {
-        "title": "ナイトメアー・ビフォア・クリスマス",
-        "director": "ヘンリー・セリック",
-        "year": "1993",
-        "why": "日々繰り返される祭りの準備に憂鬱なハロウィンの王様ジャックは、ある日、偶然クリスマスの世界へ迷い込む。その華やかさに魅了された彼は、ハロウィン風クリスマスの計画を思いつく。しかし、…",
-        "time": "short",
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uB7qOOZZ50FXUuyohGHd4Nbbie3.jpg",
-        "link": "https://www.themoviedb.org/movie/9479?language=ja-JP",
-        "tmdbId": 9479
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       }
     ],
     "joy": [
-      {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
-      },
       {
         "title": "リメンバー・ミー",
         "director": "Lee Unkrich",
@@ -717,40 +706,73 @@
         "tmdbId": 1514026
       },
       {
-        "title": "Matchbox ザ・ムービー",
-        "director": "サム・ハーグレイヴ",
+        "title": "ストリートファイター／ザ・ムービー",
+        "director": "キタオ・サクライ",
         "year": "2026",
-        "why": "子供の頃の友人グループが再結成する。すると、彼らは危険な国際的陰謀に遭遇することに。そして、その仲間たちの再会は意外な展開を見せる。世界を救うという使命が、彼らに託されるのであった…",
+        "why": "舞台は1993年。かつて、共に天才格闘家として名を馳せ、兄弟のような存在であったリュウとケン。ある理由により疎遠になった二人のもとに、謎の女性格闘家・春麗が現れ、“ワールドウォリア…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/4bY4EvWpIoi8Q9F51l9OyeuDd5X.jpg",
-        "link": "https://www.themoviedb.org/movie/1148365?language=ja-JP",
-        "tmdbId": 1148365
+        "cover": "https://image.tmdb.org/t/p/w200/1JBlbyXionXPRaqW1UQw7eKkxNP.jpg",
+        "link": "https://www.themoviedb.org/movie/1153576?language=ja-JP",
+        "tmdbId": 1153576
       },
       {
-        "title": "ナイトメアー・ビフォア・クリスマス",
-        "director": "ヘンリー・セリック",
-        "year": "1993",
-        "why": "日々繰り返される祭りの準備に憂鬱なハロウィンの王様ジャックは、ある日、偶然クリスマスの世界へ迷い込む。その華やかさに魅了された彼は、ハロウィン風クリスマスの計画を思いつく。しかし、…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uB7qOOZZ50FXUuyohGHd4Nbbie3.jpg",
-        "link": "https://www.themoviedb.org/movie/9479?language=ja-JP",
-        "tmdbId": 9479
-      },
-      {
-        "title": "Coyote vs. Acme",
-        "director": "デイヴ・グリーン",
+        "title": "フォーガットン・アイランド 忘却の魔法島",
+        "director": "ジャニュエル・メルカド",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
+        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
-        "tmdbId": 1204680
+        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
+        "tmdbId": 1465063
+      },
+      {
+        "title": "ワイルド・ホース・ナイン",
+        "director": "マーティン・マクドナー",
+        "year": "2026",
+        "why": "舞台は1973年のチリ軍事クーデター直前のこと。CIAの局長MJ（スティーヴ・ブシェミ）の命令により、エージェントのクリス（ジョン・マルコヴィッチ）とリー（サム・ロックウェル）はチ…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/ic83Sukgjq7sj0lYDqlQgLQkkiq.jpg",
+        "link": "https://www.themoviedb.org/movie/891621?language=ja-JP",
+        "tmdbId": 891621
+      },
+      {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
       }
     ],
     "fun": [
+      {
+        "title": "リメンバー・ミー",
+        "director": "Lee Unkrich",
+        "year": "2017",
+        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
+        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
+        "tmdbId": 354912
+      },
+      {
+        "title": "Buddy",
+        "director": "Casper Kelly",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+        "link": "https://www.themoviedb.org/movie/1514026?language=ja-JP",
+        "tmdbId": 1514026
+      },
       {
         "title": "Wildwood",
         "director": "トラヴィス・ナイト",
@@ -763,59 +785,37 @@
         "tmdbId": 791523
       },
       {
-        "title": "ホテル・ニューハンプシャー",
-        "director": "トニー・リチャードソン",
-        "year": "1984",
-        "why": "ホテル経営を夢見る父を大黒柱とする不思議な家族の物語が、次男のジョン視点で語られていく。若い頃高級ホテル「アーバスノット・バイ・ザ・シー」でひと夏のアルバイトを経験したベリー家の父…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/cZMYZVGeXnk1BIyJSyABi9iFHXx.jpg",
-        "link": "https://www.themoviedb.org/movie/11308?language=ja-JP",
-        "tmdbId": 11308
-      },
-      {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
-      },
-      {
-        "title": "Buddy",
-        "director": "Casper Kelly",
+        "title": "ストリートファイター／ザ・ムービー",
+        "director": "キタオ・サクライ",
         "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-        "link": "https://www.themoviedb.org/movie/1514026?language=ja-JP",
-        "tmdbId": 1514026
-      },
-      {
-        "title": "Matchbox ザ・ムービー",
-        "director": "サム・ハーグレイヴ",
-        "year": "2026",
-        "why": "子供の頃の友人グループが再結成する。すると、彼らは危険な国際的陰謀に遭遇することに。そして、その仲間たちの再会は意外な展開を見せる。世界を救うという使命が、彼らに託されるのであった…",
+        "why": "舞台は1993年。かつて、共に天才格闘家として名を馳せ、兄弟のような存在であったリュウとケン。ある理由により疎遠になった二人のもとに、謎の女性格闘家・春麗が現れ、“ワールドウォリア…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/4bY4EvWpIoi8Q9F51l9OyeuDd5X.jpg",
-        "link": "https://www.themoviedb.org/movie/1148365?language=ja-JP",
-        "tmdbId": 1148365
+        "cover": "https://image.tmdb.org/t/p/w200/1JBlbyXionXPRaqW1UQw7eKkxNP.jpg",
+        "link": "https://www.themoviedb.org/movie/1153576?language=ja-JP",
+        "tmdbId": 1153576
       },
       {
-        "title": "ナイトメアー・ビフォア・クリスマス",
-        "director": "ヘンリー・セリック",
-        "year": "1993",
-        "why": "日々繰り返される祭りの準備に憂鬱なハロウィンの王様ジャックは、ある日、偶然クリスマスの世界へ迷い込む。その華やかさに魅了された彼は、ハロウィン風クリスマスの計画を思いつく。しかし、…",
-        "time": "short",
+        "title": "フォーガットン・アイランド 忘却の魔法島",
+        "director": "ジャニュエル・メルカド",
+        "year": "2026",
+        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
+        "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/uB7qOOZZ50FXUuyohGHd4Nbbie3.jpg",
-        "link": "https://www.themoviedb.org/movie/9479?language=ja-JP",
-        "tmdbId": 9479
+        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
+        "tmdbId": 1465063
+      },
+      {
+        "title": "ワイルド・ホース・ナイン",
+        "director": "マーティン・マクドナー",
+        "year": "2026",
+        "why": "舞台は1973年のチリ軍事クーデター直前のこと。CIAの局長MJ（スティーヴ・ブシェミ）の命令により、エージェントのクリス（ジョン・マルコヴィッチ）とリー（サム・ロックウェル）はチ…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/ic83Sukgjq7sj0lYDqlQgLQkkiq.jpg",
+        "link": "https://www.themoviedb.org/movie/891621?language=ja-JP",
+        "tmdbId": 891621
       }
     ]
   }
