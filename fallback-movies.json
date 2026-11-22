@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "source": "TMDb popularity ranking (auto-generated)",
   "categories": {
     "anxiety": [
@@ -26,15 +26,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "インターステラー",
@@ -46,28 +68,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
-      },
-      {
-        "title": "シャッフル",
-        "director": "Mennan Yapo",
-        "year": "2007",
-        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
-        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
-        "tmdbId": 9963
       }
     ],
     "sadness": [
@@ -94,15 +94,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "インターステラー",
@@ -114,28 +136,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
-      },
-      {
-        "title": "シャッフル",
-        "director": "Mennan Yapo",
-        "year": "2007",
-        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
-        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
-        "tmdbId": 9963
       }
     ],
     "tired": [
@@ -162,37 +162,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
-      },
-      {
-        "title": "フォーガットン・アイランド 忘却の魔法島",
-        "director": "ジャニュエル・メルカド",
-        "year": "2026",
-        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
-        "tmdbId": 1465063
-      },
-      {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "トイ・ストーリー５",
@@ -230,15 +230,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "インターステラー",
@@ -250,28 +272,6 @@
         "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
         "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
         "tmdbId": 157336
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
-      },
-      {
-        "title": "シャッフル",
-        "director": "Mennan Yapo",
-        "year": "2007",
-        "why": "愛する娘たちと幸せにくらしていたリンダのもとに、夫のジムが交通事故で死亡したという連絡が入る。その翌日、悲しみにくれるリンダの前にジムが何事もなかったかのように現れ……。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/rc4Ph7ilyRLH9tkkGDriJAKaIkd.jpg",
-        "link": "https://www.themoviedb.org/movie/9963?language=ja-JP",
-        "tmdbId": 9963
       }
     ],
     "anger": [
@@ -309,17 +309,6 @@
         "tmdbId": 1294189
       },
       {
-        "title": "ヴェリティ／真実",
-        "director": "マイケル・ショウォーター",
-        "year": "2026",
-        "why": "仕事にも人生にも行き詰まっている売れない作家ローウェン・アシュリー（ダコタ・ジョンソン）のもとへ、突然、驚くようなオファーが届く。それは交通事故で生死を彷徨う人気作家ヴェリティ・ク…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-        "link": "https://www.themoviedb.org/movie/1283515?language=ja-JP",
-        "tmdbId": 1283515
-      },
-      {
         "title": "Fall 2: Deadpoint",
         "director": "マイケル・スピエリッグ",
         "year": "2026",
@@ -331,15 +320,26 @@
         "tmdbId": 1101412
       },
       {
-        "title": "Drive – The Pretenders",
-        "director": "Sergej Moya",
+        "title": "ヴェリティ／真実",
+        "director": "マイケル・ショウォーター",
+        "year": "2026",
+        "why": "仕事にも人生にも行き詰まっている売れない作家ローウェン・アシュリー（ダコタ・ジョンソン）のもとへ、突然、驚くようなオファーが届く。それは交通事故で生死を彷徨う人気作家ヴェリティ・ク…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+        "link": "https://www.themoviedb.org/movie/1283515?language=ja-JP",
+        "tmdbId": 1283515
+      },
+      {
+        "title": "ハートランド",
+        "director": "Shana Feste",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
-        "link": "https://www.themoviedb.org/movie/1596275?language=ja-JP",
-        "tmdbId": 1596275
+        "cover": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+        "link": "https://www.themoviedb.org/movie/1543469?language=ja-JP",
+        "tmdbId": 1543469
       }
     ],
     "stagnation": [
@@ -366,6 +366,17 @@
         "tmdbId": 1422041
       },
       {
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
         "title": "Drive – The Pretenders",
         "director": "Sergej Moya",
         "year": "2026",
@@ -377,61 +388,39 @@
         "tmdbId": 1596275
       },
       {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
       },
       {
-        "title": "インターステラー",
-        "director": "クリストファー・ノーラン",
-        "year": "2014",
-        "why": "近未来の地球では植物の枯死、異常気象により人類は滅亡の危機に立たされていた。元宇宙飛行士クーパーは、義父と15歳の息子トム、10歳の娘マーフとともにトウモロコシ農場を営んでいる。マ…",
-        "time": "long",
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
-        "link": "https://www.themoviedb.org/movie/157336?language=ja-JP",
-        "tmdbId": 157336
-      },
-      {
-        "title": "プライムタイム",
-        "director": "ランス・オッペンハイム",
-        "year": "2026",
-        "why": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/wqzFMOXLvt9EF5EkNGeI4QLaALE.jpg",
-        "link": "https://www.themoviedb.org/movie/1375441?language=ja-JP",
-        "tmdbId": 1375441
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       }
     ],
     "adventure": [
       {
-        "title": "ハート・オブ・ビースト",
-        "director": "デヴィッド・エアー",
-        "year": "2026",
-        "why": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を…",
+        "title": "アイアンマン",
+        "director": "ジョン・ファヴロー",
+        "year": "2008",
+        "why": "億万長者で発明家の軍需産業会社社長トニー・スタークは、視察に訪れた軍のキャンプでテロリストの奇襲に遭い、胸を負傷してしまう。やがて自分の会社の兵器がテロリストに悪用されている衝撃の…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
-        "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
-        "tmdbId": 1263337
-      },
-      {
-        "title": "バイオハザード",
-        "director": "ザック・クレッガー",
-        "year": "2026",
-        "why": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/wHXSnGH3zQtvpxPwaBXMoS9o8Vl.jpg",
-        "link": "https://www.themoviedb.org/movie/1423191?language=ja-JP",
-        "tmdbId": 1423191
+        "cover": "https://image.tmdb.org/t/p/w200/gZnH9qyt45WblCc9tEKlEXVjSKA.jpg",
+        "link": "https://www.themoviedb.org/movie/1726?language=ja-JP",
+        "tmdbId": 1726
       },
       {
         "title": "オデュッセイア",
@@ -445,6 +434,28 @@
         "tmdbId": 1368337
       },
       {
+        "title": "ハート・オブ・ビースト",
+        "director": "デヴィッド・エアー",
+        "year": "2026",
+        "why": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
+        "link": "https://www.themoviedb.org/movie/1263337?language=ja-JP",
+        "tmdbId": 1263337
+      },
+      {
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "director": "フランシス・ローレンス",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "long",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+        "link": "https://www.themoviedb.org/movie/1300968?language=ja-JP",
+        "tmdbId": 1300968
+      },
+      {
         "title": "スパイダーマン：ブランド・ニュー・デイ",
         "director": "デスティン・ダニエル・クレットン",
         "year": "2026",
@@ -456,26 +467,15 @@
         "tmdbId": 969681
       },
       {
-        "title": "プロジェクト・ヘイル・メアリー",
-        "director": "フィル・ロード",
+        "title": "バイオハザード",
+        "director": "ザック・クレッガー",
         "year": "2026",
-        "why": "未知の原因によって太陽エネルギーが奪われる異常事態が発生。このままでは地球の気温は低下し、全生命は滅亡する。 この絶望的な危機を救う鍵が、11.9光年先の宇宙にあると突き止めた人類…",
-        "time": "long",
+        "why": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
+        "time": "short",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/laVssxUceGPReVeLM6GVVDwXBF3.jpg",
-        "link": "https://www.themoviedb.org/movie/687163?language=ja-JP",
-        "tmdbId": 687163
-      },
-      {
-        "title": "호프",
-        "director": "ナ・ホンジン",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "long",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/nDdpfDzuK8VmDlX83yxoLjsgTxt.jpg",
-        "link": "https://www.themoviedb.org/movie/1058424?language=ja-JP",
-        "tmdbId": 1058424
+        "cover": "https://image.tmdb.org/t/p/w200/wHXSnGH3zQtvpxPwaBXMoS9o8Vl.jpg",
+        "link": "https://www.themoviedb.org/movie/1423191?language=ja-JP",
+        "tmdbId": 1423191
       }
     ],
     "calm": [
@@ -502,37 +502,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
-      },
-      {
-        "title": "フォーガットン・アイランド 忘却の魔法島",
-        "director": "ジャニュエル・メルカド",
-        "year": "2026",
-        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
-        "tmdbId": 1465063
-      },
-      {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "トイ・ストーリー５",
@@ -547,17 +547,6 @@
       }
     ],
     "confusion": [
-      {
-        "title": "アザー・マミー",
-        "director": "ロブ・サヴェージ",
-        "year": "2026",
-        "why": "TMDbにあらすじの登録がありませんでした。",
-        "time": "short",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/qs0kHXbRadmtDIH5EmIoiqV0rX1.jpg",
-        "link": "https://www.themoviedb.org/movie/1400837?language=ja-JP",
-        "tmdbId": 1400837
-      },
       {
         "title": "호프",
         "director": "ナ・ホンジン",
@@ -592,6 +581,17 @@
         "tmdbId": 1422041
       },
       {
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
         "title": "ヴェリティ／真実",
         "director": "マイケル・ショウォーター",
         "year": "2026",
@@ -603,15 +603,15 @@
         "tmdbId": 1283515
       },
       {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "ハートランド",
+        "director": "Shana Feste",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+        "link": "https://www.themoviedb.org/movie/1543469?language=ja-JP",
+        "tmdbId": 1543469
       }
     ],
     "gratitude": [
@@ -638,37 +638,37 @@
         "tmdbId": 1422041
       },
       {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
-      },
-      {
-        "title": "フォーガットン・アイランド 忘却の魔法島",
-        "director": "ジャニュエル・メルカド",
-        "year": "2026",
-        "why": "幼い頃から親友だったジョーとライサは、高校卒業を機にそれぞれ別々の人生へと進もうとしていた。最後の夜を一緒に過ごしていたふたりは、偶然不思議なアイテムを見つけ、家族から聞いていた魔…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "link": "https://www.themoviedb.org/movie/1465063?language=ja-JP",
-        "tmdbId": 1465063
-      },
-      {
-        "title": "Colisión",
-        "director": "Daniel Sánchez Arévalo",
+        "title": "クリスマス・キャロル／3人のゴーストたち",
+        "director": "タイ・ウェスト",
         "year": "2026",
         "why": "TMDbにあらすじの登録がありませんでした。",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-        "link": "https://www.themoviedb.org/movie/1571955?language=ja-JP",
-        "tmdbId": 1571955
+        "cover": "https://image.tmdb.org/t/p/w200/zy5CBj2ZHOqPWCW124oE4a74dZE.jpg",
+        "link": "https://www.themoviedb.org/movie/1567605?language=ja-JP",
+        "tmdbId": 1567605
+      },
+      {
+        "title": "Wildwood",
+        "director": "トラヴィス・ナイト",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "link": "https://www.themoviedb.org/movie/791523?language=ja-JP",
+        "tmdbId": 791523
+      },
+      {
+        "title": "ナイン・ソングス",
+        "director": "Michael Winterbottom",
+        "year": "2004",
+        "why": "雪に閉ざされた北極の地で、マットはロンドンで出会ったアメリカ人学生のリサのことを想っていた。ブラック・レーベル・モーターサイクルのライブで出会った2人は恋に落ち、何度も身体を重ね合…",
+        "time": "short",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/aWrsa48qYqQ5NtM1LxMj1H9WE7F.jpg",
+        "link": "https://www.themoviedb.org/movie/27?language=ja-JP",
+        "tmdbId": 27
       },
       {
         "title": "トイ・ストーリー５",
@@ -683,17 +683,6 @@
       }
     ],
     "joy": [
-      {
-        "title": "リメンバー・ミー",
-        "director": "Lee Unkrich",
-        "year": "2017",
-        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
-        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
-        "tmdbId": 354912
-      },
       {
         "title": "Buddy",
         "director": "Casper Kelly",
@@ -717,6 +706,17 @@
         "tmdbId": 1153576
       },
       {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      },
+      {
         "title": "フォーガットン・アイランド 忘却の魔法島",
         "director": "ジャニュエル・メルカド",
         "year": "2026",
@@ -728,30 +728,6 @@
         "tmdbId": 1465063
       },
       {
-        "title": "ワイルド・ホース・ナイン",
-        "director": "マーティン・マクドナー",
-        "year": "2026",
-        "why": "舞台は1973年のチリ軍事クーデター直前のこと。CIAの局長MJ（スティーヴ・ブシェミ）の命令により、エージェントのクリス（ジョン・マルコヴィッチ）とリー（サム・ロックウェル）はチ…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/ic83Sukgjq7sj0lYDqlQgLQkkiq.jpg",
-        "link": "https://www.themoviedb.org/movie/891621?language=ja-JP",
-        "tmdbId": 891621
-      },
-      {
-        "title": "トイ・ストーリー５",
-        "director": "アンドリュー・スタントン",
-        "year": "2026",
-        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
-        "time": "medium",
-        "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
-        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
-        "tmdbId": 1084244
-      }
-    ],
-    "fun": [
-      {
         "title": "リメンバー・ミー",
         "director": "Lee Unkrich",
         "year": "2017",
@@ -762,6 +738,19 @@
         "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
         "tmdbId": 354912
       },
+      {
+        "title": "Coyote vs. Acme",
+        "director": "デイヴ・グリーン",
+        "year": "2026",
+        "why": "TMDbにあらすじの登録がありませんでした。",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+        "link": "https://www.themoviedb.org/movie/1204680?language=ja-JP",
+        "tmdbId": 1204680
+      }
+    ],
+    "fun": [
       {
         "title": "Buddy",
         "director": "Casper Kelly",
@@ -796,6 +785,17 @@
         "tmdbId": 1153576
       },
       {
+        "title": "トイ・ストーリー５",
+        "director": "アンドリュー・スタントン",
+        "year": "2026",
+        "why": "​想像力豊かで内気な少女・ボニーの成長を、そばで見守ってきたカウガール人形のジェシー。しかし、タブレット〈リリーパッド〉の登場で日常は大きく変わる。「みんなの時間がタブレットに支配…",
+        "time": "medium",
+        "outcome": null,
+        "cover": "https://image.tmdb.org/t/p/w200/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+        "link": "https://www.themoviedb.org/movie/1084244?language=ja-JP",
+        "tmdbId": 1084244
+      },
+      {
         "title": "フォーガットン・アイランド 忘却の魔法島",
         "director": "ジャニュエル・メルカド",
         "year": "2026",
@@ -807,15 +807,15 @@
         "tmdbId": 1465063
       },
       {
-        "title": "ワイルド・ホース・ナイン",
-        "director": "マーティン・マクドナー",
-        "year": "2026",
-        "why": "舞台は1973年のチリ軍事クーデター直前のこと。CIAの局長MJ（スティーヴ・ブシェミ）の命令により、エージェントのクリス（ジョン・マルコヴィッチ）とリー（サム・ロックウェル）はチ…",
+        "title": "リメンバー・ミー",
+        "director": "Lee Unkrich",
+        "year": "2017",
+        "why": "天才的なギターの才能を持つ少年ミゲルはミュージシャンを夢見ているが、過去の悲しい出来事が原因で、彼の一族には音楽禁止の掟が定められていた。ある日ミゲルは、憧れの伝説的ミュージシャン…",
         "time": "medium",
         "outcome": null,
-        "cover": "https://image.tmdb.org/t/p/w200/ic83Sukgjq7sj0lYDqlQgLQkkiq.jpg",
-        "link": "https://www.themoviedb.org/movie/891621?language=ja-JP",
-        "tmdbId": 891621
+        "cover": "https://image.tmdb.org/t/p/w200/eHezW17t9q5icYP5AAyRw0PbxvU.jpg",
+        "link": "https://www.themoviedb.org/movie/354912?language=ja-JP",
+        "tmdbId": 354912
       }
     ]
   }
